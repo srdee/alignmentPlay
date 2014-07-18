@@ -134,9 +134,11 @@ function sideBySideSentences(alignmentData){
 
     var langData = alignmentData.alignment.language;
     var dirList = [];
+    var lnumList =[];
 
     for (i = 0; i < langData.length; i++) {
         dirList.push(langData[i].dir);
+        lnumList.push(langData[i].lnum);
     }
 
     var htmlArray =[];
@@ -154,16 +156,29 @@ function sideBySideSentences(alignmentData){
              var textList = [];
 
             for (i = 0; i < wordList.length; i++) {
-                    textList.push(wordList[i].text);
+
+                //make this more L# friendly (multiple alignment refs allowed, etc, try with new Alpheios schema)
+
+                    if (wordList[i].hasOwnProperty("refs")) {
+                        var nrefs = wordList[i].refs.nrefs;
+                        
+                    }  else{
+
+                        var nrefs = "";
+                        
+                    }
+
+                    textList.push("<span data-n='" + wordList[i].n + "' data-refs='" + nrefs +"' onmouseover='showCorrs(this)' onmouseout='hideCorrs(this)' class='word'>" + wordList[i].text + "</span>");
             }
-            rowArray.push("<div class='col-md-" + width +"' dir='" + dirList[d] + "'>" + textList.join(" ") + "</div>");
+            rowArray.push("<div class='col-md-" + width +"' data-lnum='" +lnumList[d] +"' dir='" + dirList[d] + "'>" + textList.join(" ") + "</div>");
 
         }
+        var num = s+1
 
-        htmlArray.push("<div class 'row'>" + rowArray + "</div>");
+        htmlArray.push("<div class='row' id='"+ num +"'>" + rowArray + "</div>");
     }
 
-    return htmlArray.join("\n");
+    return "<div class='alignmentData'>" + htmlArray.join("\n") + "</div>";
 
 }
 
