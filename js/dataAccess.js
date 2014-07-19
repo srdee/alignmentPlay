@@ -289,7 +289,7 @@ function sideBySideSentencesWriteableAlignable(alignmentData){
         htmlArray.push("<div class='row' id='"+ num +"'>" + rowArray.join("<div class='writeable' contenteditable='true'> <textarea></textarea> </div>") + "</div>");
     }
 
-    return "<div class='container' data-type='alignment-data'><button onclick='submitTrans()'>Submit Translation</button>" + htmlArray.join("\n") + "</div>";
+    return "<div class='container' data-type='alignment-data'><button id='hideL2' onclick='hideshowL2()'>Hide Translation</button><button onclick='writeTrans()'>Write New Translation</button><button onclick='submitTrans()'>Submit New Translation</button><button id='reload' onclick='location.reload()'>Revert To Original Translation</button>" + htmlArray.join("\n") + "</div>";
 
 }
 

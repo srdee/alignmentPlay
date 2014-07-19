@@ -31,6 +31,8 @@
     
   </nav>
 <div class="container" data-type="alignment-data">
+
+<button onclick='hideshowL2()'>Hide Translation</button>
     <!--<div id='content' ng-app='MyTutorialApp' ng-controller='MainController as align'> -->
        <!-- <input type='text' ng-model='searchText' />
         <ul>
@@ -139,7 +141,28 @@ function hideCorrs(word) {
 
     }
 } else{}
-} </script>
+}
+
+function hideshowL2(){
+
+var sList = document.getElementsByClassName("col-md-6");
+
+for (s=0; s< sList.length; s++) {
+
+ if (sList[s].hasAttribute("data-lnum")) {
+        var lnum = sList[s].getAttribute("data-lnum");
+        if (lnum === "L2") {
+            if (sList[s].style.display==="block"){
+                  sList[s].style.display="none";}
+              else{
+              sList[s].style.display="block";}
+}  else {}
+    
+} else{}}}
+
+
+
+ </script>
 
 </body>
 </html>

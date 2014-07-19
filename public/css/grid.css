@@ -66,4 +66,9 @@ div [data-lnum=L2]{
 
   max-width:30%;
   float:right;
+  display:none;
+}
+
+#reload {
+  display:none;
 }
