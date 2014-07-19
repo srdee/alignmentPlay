@@ -238,6 +238,61 @@ function sideBySideSentencesWriteable(alignmentData){
 
 }
 
+function sideBySideSentencesWriteableAlignable(alignmentData){
+    var sentenceList = alignmentData.alignment.sentence;
+
+
+    var langData = alignmentData.alignment.language;
+    var dirList = [];
+    var lnumList =[];
+
+    for (i = 0; i < langData.length; i++) {
+        dirList.push(langData[i].dir);
+        lnumList.push(langData[i].lnum);
+    }
+
+    var htmlArray =[];
+
+    for (s=0; s < sentenceList.length; s++){
+
+        var rowArray = [];
+        var num = s+1
+
+        for (d=0; d<dirList.length; d++){
+
+             var num = s;
+             var lN = d;
+             var width = 12/(dirList.length);
+             var wordList = alignmentData.alignment.sentence[num].wds[lN].w;
+             var textList = [];
+
+            for (i = 0; i < wordList.length; i++) {
+
+                //make this more L# friendly (multiple alignment refs allowed, etc, try with new Alpheios schema)
+
+                    if (wordList[i].hasOwnProperty("refs")) {
+                        var nrefs = wordList[i].refs.nrefs;
+                        
+                    }  else{
+
+                        var nrefs = "";
+                        
+                    }
+
+                    textList.push("<span data-n='" + wordList[i].n + "' data-refs='" + nrefs +"' id='"+ lnumList[d] + "-"+wordList[i].n +"' onmouseover='showCorrs(this)' onmouseout='hideCorrs(this)' class='word' draggable='true' ondragstart='drag(event)' ondrop='drop(event)' ondragover='allowDrop(event)'>" + wordList[i].text + "</span>");
+            }
+            rowArray.push("<div class='col-md-" + width +"' data-lnum='" +lnumList[d] +"' dir='" + dirList[d] + "' id='"+ s + "-" + lnumList[d]+"'>" + textList.join(" ") + "</div>");
+
+        }
+        
+
+        htmlArray.push("<div class='row' id='"+ num +"'>" + rowArray.join("<div class='writeable' contenteditable='true'> <textarea></textarea> </div>") + "</div>");
+    }
+
+    return "<div class='container' data-type='alignment-data'><button onclick='submitTrans()'>Submit Translation</button>" + htmlArray.join("\n") + "</div>";
+
+}
+
 /*function findCorrWords(alignmentData) {
 
     var sentenceList = alignmentData.alignment.sentence;

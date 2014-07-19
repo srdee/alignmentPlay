@@ -24,7 +24,7 @@
     
     <ul class="nav navbar-nav">
       <li class="active"><a href="../index.html">Home</a></li>
-      <li><a href="#">Kohelet</a></li>
+      <li><a href="kohelet.html">Kohelet</a></li>
    
 
     </ul>
@@ -122,10 +122,11 @@ function submitTrans(){
 
    var wordList = elemList[t].value.split(" ");
    var wordHtmlList = []
+   var sNum = t + 1
 
    for(w=0; w<wordList.length; w++){
       var wNum = w + 1
-      wordHtmlList.push("<span data-n='"+ wNum + "' data-refs='' onmouseover='showCorrs(this)' onmouseout='hideCorrs(this)' class='word'>" + wordList[w] + "</span>")
+      wordHtmlList.push("<span data-n='"+ sNum + "-" + wNum + "' data-refs='' onmouseover='showCorrs(this)' onmouseout='hideCorrs(this)' class='word'>" + wordList[w] + "</span>")
 
    }
 
