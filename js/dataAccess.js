@@ -128,7 +128,7 @@ function getFullTextbyLNum(alignmentData, lNum) {
 
 //Make it show correspondences on hover?
 
-function sideBySideSentences(alignmentData){
+function sideBySideSentencesReadable(alignmentData){
     var sentenceList = alignmentData.alignment.sentence;
 
 
@@ -146,6 +146,7 @@ function sideBySideSentences(alignmentData){
     for (s=0; s < sentenceList.length; s++){
 
         var rowArray = [];
+        var num = s+1
 
         for (d=0; d<dirList.length; d++){
 
@@ -168,17 +169,72 @@ function sideBySideSentences(alignmentData){
                         
                     }
 
-                    textList.push("<span data-n='" + wordList[i].n + "' data-refs='" + nrefs +"' onmouseover='showCorrs(this)' onmouseout='hideCorrs(this)' class='word'>" + wordList[i].text + "</span>");
+                    textList.push("<span data-n='" + wordList[i].n + "' data-refs='" + nrefs +"' id='"+ lnumList[d] + "-"+wordList[i].n +"' onmouseover='showCorrs(this)' onmouseout='hideCorrs(this)' class='word'>" + wordList[i].text + "</span>");
             }
             rowArray.push("<div class='col-md-" + width +"' data-lnum='" +lnumList[d] +"' dir='" + dirList[d] + "'>" + textList.join(" ") + "</div>");
 
         }
-        var num = s+1
+        
 
         htmlArray.push("<div class='row' id='"+ num +"'>" + rowArray + "</div>");
     }
 
-    return "<div class='alignmentData'>" + htmlArray.join("\n") + "</div>";
+    return "<div class='container' data-type='alignment-data'>" + htmlArray.join("\n") + "</div>";
+
+}
+
+function sideBySideSentencesWriteable(alignmentData){
+    var sentenceList = alignmentData.alignment.sentence;
+
+
+    var langData = alignmentData.alignment.language;
+    var dirList = [];
+    var lnumList =[];
+
+    for (i = 0; i < langData.length; i++) {
+        dirList.push(langData[i].dir);
+        lnumList.push(langData[i].lnum);
+    }
+
+    var htmlArray =[];
+
+    for (s=0; s < sentenceList.length; s++){
+
+        var rowArray = [];
+        var num = s+1
+
+        for (d=0; d<dirList.length; d++){
+
+             var num = s;
+             var lN = d;
+             var width = 12/(dirList.length);
+             var wordList = alignmentData.alignment.sentence[num].wds[lN].w;
+             var textList = [];
+
+            for (i = 0; i < wordList.length; i++) {
+
+                //make this more L# friendly (multiple alignment refs allowed, etc, try with new Alpheios schema)
+
+                    if (wordList[i].hasOwnProperty("refs")) {
+                        var nrefs = wordList[i].refs.nrefs;
+                        
+                    }  else{
+
+                        var nrefs = "";
+                        
+                    }
+
+                    textList.push("<span data-n='" + wordList[i].n + "' data-refs='" + nrefs +"' id='"+ lnumList[d] + "-"+wordList[i].n +"' onmouseover='showCorrs(this)' onmouseout='hideCorrs(this)' class='word'>" + wordList[i].text + "</span>");
+            }
+            rowArray.push("<div class='col-md-" + width +"' data-lnum='" +lnumList[d] +"' dir='" + dirList[d] + "' id='"+ s + "-" + lnumList[d]+"'>" + textList.join(" ") + "</div>");
+
+        }
+        
+
+        htmlArray.push("<div class='row' id='"+ num +"'>" + rowArray.join("<div class='writeable' contenteditable='true'> <textarea></textarea> </div>") + "</div>");
+    }
+
+    return "<div class='container' data-type='alignment-data'><button onclick='submitTrans()'>Submit Translation</button>" + htmlArray.join("\n") + "</div>";
 
 }
 
