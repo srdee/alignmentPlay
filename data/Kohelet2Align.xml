@@ -1,0 +1,4695 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<aligned-text xmlns='http://alpheios.net/namespaces/aligned-text'>
+<language lnum='L1' xml:lang='heb' dir='rtl'/>
+<language lnum='L2' xml:lang='eng' dir='ltr'/>
+<comment class='title'/>
+<sentence n='1'>
+        <wds lnum='L1'>
+            <w n='1-1'>
+                <text>אָמַ֤רְתִּֽי</text>
+                <refs nrefs='1-2'/>
+            </w>
+            <w n='1-2'>
+                <text>אֲנִי֙</text>
+                <refs nrefs='1-1'/>
+            </w>
+            <w n='1-3'>
+                <text>בְּלִבִּ֔י</text>
+                <refs nrefs='1-3 1-4 1-5'/>
+            </w>
+            <w n='1-4'>
+                <text>לְכָה־נָּ֛א</text>
+                <refs nrefs='1-8 1-9'/>
+            </w>
+            <w n='1-5'>
+                <text>אֲנַסְּכָ֛ה</text>
+                <refs nrefs='1-11 1-12 1-13 1-14'/>
+            </w>
+            <w n='1-6'>
+                <text>בְשִׂמְחָ֖ה</text>
+                <refs nrefs='1-15 1-16'/>
+            </w>
+            <w n='1-7'>
+                <text>וּרְאֵ֣ה</text>
+                <refs nrefs='1-18 1-19'/>
+            </w>
+            <w n='1-8'>
+                <text>בְטֹ֑וב</text>
+                <refs nrefs='1-20'/>
+            </w>
+            <w n='1-9'>
+                <text>וְהִנֵּ֥ה</text>
+                <refs nrefs='1-23 1-24'/>
+            </w>
+            <w n='1-10'>
+                <text>גַם־ה֖וּא</text>
+                <refs nrefs='1-26 1-27'/>
+            </w>
+            <w n='1-11'>
+                <text>הָֽבֶל</text>
+                <refs nrefs='1-29'/>
+            </w>
+            <w n='1-12'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='1-1'>
+                <text>I</text>
+                <refs nrefs='1-2'/>
+            </w>
+            <w n='1-2'>
+                <text>said</text>
+                <refs nrefs='1-1'/>
+            </w>
+            <w n='1-3'>
+                <text>in</text>
+                <refs nrefs='1-3'/>
+            </w>
+            <w n='1-4'>
+                <text>my</text>
+                <refs nrefs='1-3'/>
+            </w>
+            <w n='1-5'>
+                <text>heart</text>
+                <refs nrefs='1-3'/>
+            </w>
+            <w n='1-6'>
+                <text>,</text>
+            </w>
+            <w n='1-7'>
+                <text>“</text>
+            </w>
+            <w n='1-8'>
+                <text>Come</text>
+                <refs nrefs='1-4'/>
+            </w>
+            <w n='1-9'>
+                <text>now</text>
+                <refs nrefs='1-4'/>
+            </w>
+            <w n='1-10'>
+                <text>,</text>
+            </w>
+            <w n='1-11'>
+                <text>I</text>
+                <refs nrefs='1-5'/>
+            </w>
+            <w n='1-12'>
+                <text>will</text>
+                <refs nrefs='1-5'/>
+            </w>
+            <w n='1-13'>
+                <text>test</text>
+                <refs nrefs='1-5'/>
+            </w>
+            <w n='1-14'>
+                <text>you</text>
+                <refs nrefs='1-5'/>
+            </w>
+            <w n='1-15'>
+                <text>with</text>
+                <refs nrefs='1-6'/>
+            </w>
+            <w n='1-16'>
+                <text>mirth</text>
+                <refs nrefs='1-6'/>
+            </w>
+            <w n='1-17'>
+                <text>;</text>
+            </w>
+            <w n='1-18'>
+                <text>therefore</text>
+                <refs nrefs='1-7'/>
+            </w>
+            <w n='1-19'>
+                <text>enjoy</text>
+                <refs nrefs='1-7'/>
+            </w>
+            <w n='1-20'>
+                <text>pleasure</text>
+                <refs nrefs='1-8'/>
+            </w>
+            <w n='1-21'>
+                <text>”</text>
+            </w>
+            <w n='1-22'>
+                <text>;</text>
+            </w>
+            <w n='1-23'>
+                <text>but</text>
+                <refs nrefs='1-9'/>
+            </w>
+            <w n='1-24'>
+                <text>surely</text>
+                <refs nrefs='1-9'/>
+            </w>
+            <w n='1-25'>
+                <text>,</text>
+            </w>
+            <w n='1-26'>
+                <text>this</text>
+                <refs nrefs='1-10'/>
+            </w>
+            <w n='1-27'>
+                <text>also</text>
+                <refs nrefs='1-10'/>
+            </w>
+            <w n='1-28'>
+                <text>was</text>
+            </w>
+            <w n='1-29'>
+                <text>vanity</text>
+                <refs nrefs='1-11'/>
+            </w>
+            <w n='1-30'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='2-1'>
+                <text>לִשְׂחֹ֖וק</text>
+                <refs nrefs='2-4 2-5'/>
+            </w>
+            <w n='2-2'>
+                <text>אָמַ֣רְתִּי</text>
+                <refs nrefs='2-2 2-3'/>
+            </w>
+            <w n='2-3'>
+                <text>מְהֹולָ֑ל</text>
+                <refs nrefs='2-8'/>
+            </w>
+            <w n='2-4'>
+                <text>וּלְשִׂמְחָ֖ה</text>
+                <refs nrefs='2-12 2-13 2-14'/>
+            </w>
+            <w n='2-5'>
+                <text>מַה־זֹּ֥ה</text>
+                <refs nrefs='2-17 2-19'/>
+            </w>
+            <w n='2-6'>
+                <text>עֹשָֽׂה</text>
+                <refs nrefs='2-18 2-20'/>
+            </w>
+            <w n='2-7'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='2-1'>
+                <text/>
+            </w>
+            <w n='2-2'>
+                <text>I</text>
+                <refs nrefs='2-2'/>
+            </w>
+            <w n='2-3'>
+                <text>said</text>
+                <refs nrefs='2-2'/>
+            </w>
+            <w n='2-4'>
+                <text>of</text>
+                <refs nrefs='2-1'/>
+            </w>
+            <w n='2-5'>
+                <text>laughter</text>
+                <refs nrefs='2-1'/>
+            </w>
+            <w n='2-6'>
+                <text>—</text>
+            </w>
+            <w n='2-7'>
+                <text>“</text>
+            </w>
+            <w n='2-8'>
+                <text>Madness</text>
+                <refs nrefs='2-3'/>
+            </w>
+            <w n='2-9'>
+                <text>!</text>
+            </w>
+            <w n='2-10'>
+                <text>”</text>
+            </w>
+            <w n='2-11'>
+                <text>;</text>
+            </w>
+            <w n='2-12'>
+                <text>and</text>
+                <refs nrefs='2-4'/>
+            </w>
+            <w n='2-13'>
+                <text>of</text>
+                <refs nrefs='2-4'/>
+            </w>
+            <w n='2-14'>
+                <text>mirth</text>
+                <refs nrefs='2-4'/>
+            </w>
+            <w n='2-15'>
+                <text>,</text>
+            </w>
+            <w n='2-16'>
+                <text>“</text>
+            </w>
+            <w n='2-17'>
+                <text>What</text>
+                <refs nrefs='2-5'/>
+            </w>
+            <w n='2-18'>
+                <text>does</text>
+                <refs nrefs='2-6'/>
+            </w>
+            <w n='2-19'>
+                <text>it</text>
+                <refs nrefs='2-5'/>
+            </w>
+            <w n='2-20'>
+                <text>accomplish</text>
+                <refs nrefs='2-6'/>
+            </w>
+            <w n='2-21'>
+                <text>?</text>
+            </w>
+            <w n='2-22'>
+                <text>&quot;</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='3-1'>
+                <text>תַּ֣רְתִּי</text>
+                <refs nrefs='3-2 3-3'/>
+            </w>
+            <w n='3-2'>
+                <text>בְלִבִּ֔י</text>
+                <refs nrefs='3-4 3-5 3-6'/>
+            </w>
+            <w n='3-3'>
+                <text>לִמְשֹׁ֥וךְ</text>
+                <refs nrefs='3-8 3-9'/>
+            </w>
+            <w n='3-4'>
+                <text>בַּיַּ֖יִן</text>
+                <refs nrefs='3-12 3-13'/>
+            </w>
+            <w n='3-5'>
+                <text>אֶת־בְּשָׂרִ֑י</text>
+                <refs nrefs='3-10 3-11'/>
+            </w>
+            <w n='3-6'>
+                <text>וְלִבִּ֞י</text>
+                <refs nrefs='3-17 3-18'/>
+            </w>
+            <w n='3-7'>
+                <text>נֹהֵ֤ג</text>
+                <refs nrefs='3-15 3-16'/>
+            </w>
+            <w n='3-8'>
+                <text>בַּֽחָכְמָה֙</text>
+                <refs nrefs='3-19 3-20'/>
+            </w>
+            <w n='3-9'>
+                <text>וְלֶאֱחֹ֣ז</text>
+                <refs nrefs='3-22 3-23 3-24 3-25 3-26'/>
+            </w>
+            <w n='3-10'>
+                <text>בְּסִכְל֔וּת</text>
+                <refs nrefs='3-27 3-28'/>
+            </w>
+            <w n='3-11'>
+                <text>עַ֣ד</text>
+                <refs nrefs='3-30'/>
+            </w>
+            <w n='3-12'>
+                <text>אֲשֶׁר־אֶרְאֶ֗ה</text>
+                <refs nrefs='3-31 3-32 3-33'/>
+            </w>
+            <w n='3-13'>
+                <text>אֵי־זֶ֨ה</text>
+                <refs nrefs='3-34 3-35'/>
+            </w>
+            <w n='3-14'>
+                <text>טֹ֜וב</text>
+                <refs nrefs='3-36'/>
+            </w>
+            <w n='3-15'>
+                <text>לִבְנֵ֤י</text>
+                <refs nrefs='3-37 3-38 3-39'/>
+            </w>
+            <w n='3-16'>
+                <text>הָאָדָם֙</text>
+                <refs nrefs='3-40 3-41'/>
+            </w>
+            <w n='3-17'>
+                <text>אֲשֶׁ֤ר</text>
+                <refs nrefs='3-34 3-35'/>
+            </w>
+            <w n='3-18'>
+                <text>יַעֲשׂוּ֙</text>
+                <refs nrefs='3-42 3-43'/>
+            </w>
+            <w n='3-19'>
+                <text>תַּ֣חַת</text>
+                <refs nrefs='3-44'/>
+            </w>
+            <w n='3-20'>
+                <text>הַשָּׁמַ֔יִם</text>
+                <refs nrefs='3-45'/>
+            </w>
+            <w n='3-21'>
+                <text>מִסְפַּ֖ר</text>
+                <refs nrefs='3-46'/>
+            </w>
+            <w n='3-22'>
+                <text>יְמֵ֥י</text>
+                <refs nrefs='3-47 3-48'/>
+            </w>
+            <w n='3-23'>
+                <text>חַיֵּיהֶֽם</text>
+                <refs nrefs='3-49 3-50 3-51'/>
+            </w>
+            <w n='3-24'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='3-1'>
+                <text/>
+            </w>
+            <w n='3-2'>
+                <text>I</text>
+                <refs nrefs='3-1'/>
+            </w>
+            <w n='3-3'>
+                <text>searched</text>
+                <refs nrefs='3-1'/>
+            </w>
+            <w n='3-4'>
+                <text>in</text>
+                <refs nrefs='3-2'/>
+            </w>
+            <w n='3-5'>
+                <text>my</text>
+                <refs nrefs='3-2'/>
+            </w>
+            <w n='3-6'>
+                <text>heart</text>
+                <refs nrefs='3-2'/>
+            </w>
+            <w n='3-7'>
+                <text>how</text>
+            </w>
+            <w n='3-8'>
+                <text>to</text>
+                <refs nrefs='3-3'/>
+            </w>
+            <w n='3-9'>
+                <text>gratify</text>
+                <refs nrefs='3-3'/>
+            </w>
+            <w n='3-10'>
+                <text>my</text>
+                <refs nrefs='3-5'/>
+            </w>
+            <w n='3-11'>
+                <text>flesh</text>
+                <refs nrefs='3-5'/>
+            </w>
+            <w n='3-12'>
+                <text>with</text>
+                <refs nrefs='3-4'/>
+            </w>
+            <w n='3-13'>
+                <text>wine</text>
+                <refs nrefs='3-4'/>
+            </w>
+            <w n='3-14'>
+                <text>,</text>
+            </w>
+            <w n='3-15'>
+                <text>while</text>
+                <refs nrefs='3-7'/>
+            </w>
+            <w n='3-16'>
+                <text>guiding</text>
+                <refs nrefs='3-7'/>
+            </w>
+            <w n='3-17'>
+                <text>my</text>
+                <refs nrefs='3-6'/>
+            </w>
+            <w n='3-18'>
+                <text>heart</text>
+                <refs nrefs='3-6'/>
+            </w>
+            <w n='3-19'>
+                <text>with</text>
+                <refs nrefs='3-8'/>
+            </w>
+            <w n='3-20'>
+                <text>wisdom</text>
+                <refs nrefs='3-8'/>
+            </w>
+            <w n='3-21'>
+                <text>,</text>
+            </w>
+            <w n='3-22'>
+                <text>and</text>
+                <refs nrefs='3-9'/>
+            </w>
+            <w n='3-23'>
+                <text>how</text>
+                <refs nrefs='3-9'/>
+            </w>
+            <w n='3-24'>
+                <text>to</text>
+                <refs nrefs='3-9'/>
+            </w>
+            <w n='3-25'>
+                <text>lay</text>
+                <refs nrefs='3-9'/>
+            </w>
+            <w n='3-26'>
+                <text>hold</text>
+                <refs nrefs='3-9'/>
+            </w>
+            <w n='3-27'>
+                <text>on</text>
+                <refs nrefs='3-10'/>
+            </w>
+            <w n='3-28'>
+                <text>folly</text>
+                <refs nrefs='3-10'/>
+            </w>
+            <w n='3-29'>
+                <text>,</text>
+            </w>
+            <w n='3-30'>
+                <text>till</text>
+                <refs nrefs='3-11'/>
+            </w>
+            <w n='3-31'>
+                <text>I</text>
+                <refs nrefs='3-12'/>
+            </w>
+            <w n='3-32'>
+                <text>might</text>
+                <refs nrefs='3-12'/>
+            </w>
+            <w n='3-33'>
+                <text>see</text>
+                <refs nrefs='3-12'/>
+            </w>
+            <w n='3-34'>
+                <text>what</text>
+                <refs nrefs='3-13 3-17'/>
+            </w>
+            <w n='3-35'>
+                <text>was</text>
+                <refs nrefs='3-13 3-17'/>
+            </w>
+            <w n='3-36'>
+                <text>good</text>
+                <refs nrefs='3-14'/>
+            </w>
+            <w n='3-37'>
+                <text>for</text>
+                <refs nrefs='3-15'/>
+            </w>
+            <w n='3-38'>
+                <text>the</text>
+                <refs nrefs='3-15'/>
+            </w>
+            <w n='3-39'>
+                <text>sons</text>
+                <refs nrefs='3-15'/>
+            </w>
+            <w n='3-40'>
+                <text>of</text>
+                <refs nrefs='3-16'/>
+            </w>
+            <w n='3-41'>
+                <text>men</text>
+                <refs nrefs='3-16'/>
+            </w>
+            <w n='3-42'>
+                <text>to</text>
+                <refs nrefs='3-18'/>
+            </w>
+            <w n='3-43'>
+                <text>do</text>
+                <refs nrefs='3-18'/>
+            </w>
+            <w n='3-44'>
+                <text>under</text>
+                <refs nrefs='3-19'/>
+            </w>
+            <w n='3-45'>
+                <text>heaven</text>
+                <refs nrefs='3-20'/>
+            </w>
+            <w n='3-46'>
+                <text>all</text>
+                <refs nrefs='3-21'/>
+            </w>
+            <w n='3-47'>
+                <text>the</text>
+                <refs nrefs='3-22'/>
+            </w>
+            <w n='3-48'>
+                <text>days</text>
+                <refs nrefs='3-22'/>
+            </w>
+            <w n='3-49'>
+                <text>of</text>
+                <refs nrefs='3-23'/>
+            </w>
+            <w n='3-50'>
+                <text>their</text>
+                <refs nrefs='3-23'/>
+            </w>
+            <w n='3-51'>
+                <text>lives</text>
+                <refs nrefs='3-23'/>
+            </w>
+            <w n='3-52'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='4-1'>
+                <text>הִגְדַּ֖לְתִּי</text>
+                <refs nrefs='4-1 4-2 4-5'/>
+            </w>
+            <w n='4-2'>
+                <text>מַעֲשָׂ֑י</text>
+                <refs nrefs='4-3 4-4'/>
+            </w>
+            <w n='4-3'>
+                <text>בָּנִ֤יתִי</text>
+                <refs nrefs='4-7 4-8'/>
+            </w>
+            <w n='4-4'>
+                <text>לִי֙</text>
+                <refs nrefs='4-9'/>
+            </w>
+            <w n='4-5'>
+                <text>בָּתִּ֔ים</text>
+                <refs nrefs='4-10'/>
+            </w>
+            <w n='4-6'>
+                <text>נָטַ֥עְתִּי</text>
+                <refs nrefs='4-13'/>
+            </w>
+            <w n='4-7'>
+                <text>לִ֖י</text>
+                <refs nrefs='4-14'/>
+            </w>
+            <w n='4-8'>
+                <text>כְּרָמִֽים</text>
+                <refs nrefs='4-15'/>
+            </w>
+            <w n='4-9'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='4-1'>
+                <text>I</text>
+                <refs nrefs='4-1'/>
+            </w>
+            <w n='4-2'>
+                <text>made</text>
+                <refs nrefs='4-1'/>
+            </w>
+            <w n='4-3'>
+                <text>my</text>
+                <refs nrefs='4-2'/>
+            </w>
+            <w n='4-4'>
+                <text>works</text>
+                <refs nrefs='4-2'/>
+            </w>
+            <w n='4-5'>
+                <text>great</text>
+                <refs nrefs='4-1'/>
+            </w>
+            <w n='4-6'>
+                <text>,</text>
+            </w>
+            <w n='4-7'>
+                <text>I</text>
+                <refs nrefs='4-3'/>
+            </w>
+            <w n='4-8'>
+                <text>built</text>
+                <refs nrefs='4-3'/>
+            </w>
+            <w n='4-9'>
+                <text>myself</text>
+                <refs nrefs='4-4'/>
+            </w>
+            <w n='4-10'>
+                <text>houses</text>
+                <refs nrefs='4-5'/>
+            </w>
+            <w n='4-11'>
+                <text>,</text>
+            </w>
+            <w n='4-12'>
+                <text>and</text>
+            </w>
+            <w n='4-13'>
+                <text>planted</text>
+                <refs nrefs='4-6'/>
+            </w>
+            <w n='4-14'>
+                <text>myself</text>
+                <refs nrefs='4-7'/>
+            </w>
+            <w n='4-15'>
+                <text>vineyards</text>
+                <refs nrefs='4-8'/>
+            </w>
+            <w n='4-16'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='5-1'>
+                <text>עָשִׂ֣יתִי</text>
+                <refs nrefs='5-2 5-3'/>
+            </w>
+            <w n='5-2'>
+                <text>לִ֔י</text>
+                <refs nrefs='5-4'/>
+            </w>
+            <w n='5-3'>
+                <text>גַּנֹּ֖ות</text>
+                <refs nrefs='5-5'/>
+            </w>
+            <w n='5-4'>
+                <text>וּפַרְדֵּסִ֑ים</text>
+                <refs nrefs='5-6 5-7'/>
+            </w>
+            <w n='5-5'>
+                <text>וְנָטַ֥עְתִּי</text>
+                <refs nrefs='5-9 5-10 5-11'/>
+            </w>
+            <w n='5-6'>
+                <text>בָהֶ֖ם</text>
+                <refs nrefs='5-17 5-18'/>
+            </w>
+            <w n='5-7'>
+                <text>עֵ֥ץ</text>
+                <refs nrefs='5-16'/>
+            </w>
+            <w n='5-8'>
+                <text>כָּל־פֶּֽרִי</text>
+                <refs nrefs='5-12 5-13 5-14 5-15'/>
+            </w>
+            <w n='5-9'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='5-1'>
+                <text/>
+            </w>
+            <w n='5-2'>
+                <text>I</text>
+                <refs nrefs='5-1'/>
+            </w>
+            <w n='5-3'>
+                <text>made</text>
+                <refs nrefs='5-1'/>
+            </w>
+            <w n='5-4'>
+                <text>myself</text>
+                <refs nrefs='5-2'/>
+            </w>
+            <w n='5-5'>
+                <text>gardens</text>
+                <refs nrefs='5-3'/>
+            </w>
+            <w n='5-6'>
+                <text>and</text>
+                <refs nrefs='5-4'/>
+            </w>
+            <w n='5-7'>
+                <text>orchards</text>
+                <refs nrefs='5-4'/>
+            </w>
+            <w n='5-8'>
+                <text>,</text>
+            </w>
+            <w n='5-9'>
+                <text>and</text>
+                <refs nrefs='5-5'/>
+            </w>
+            <w n='5-10'>
+                <text>I</text>
+                <refs nrefs='5-5'/>
+            </w>
+            <w n='5-11'>
+                <text>planted</text>
+                <refs nrefs='5-5'/>
+            </w>
+            <w n='5-12'>
+                <text>all</text>
+                <refs nrefs='5-8'/>
+            </w>
+            <w n='5-13'>
+                <text>kinds</text>
+                <refs nrefs='5-8'/>
+            </w>
+            <w n='5-14'>
+                <text>of</text>
+                <refs nrefs='5-8'/>
+            </w>
+            <w n='5-15'>
+                <text>fruit</text>
+                <refs nrefs='5-8'/>
+            </w>
+            <w n='5-16'>
+                <text>trees</text>
+                <refs nrefs='5-7'/>
+            </w>
+            <w n='5-17'>
+                <text>in</text>
+                <refs nrefs='5-6'/>
+            </w>
+            <w n='5-18'>
+                <text>them</text>
+                <refs nrefs='5-6'/>
+            </w>
+            <w n='5-19'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='6-1'>
+                <text>עָשִׂ֥יתִי</text>
+                <refs nrefs='6-2 6-3'/>
+            </w>
+            <w n='6-2'>
+                <text>לִ֖י</text>
+                <refs nrefs='6-4'/>
+            </w>
+            <w n='6-3'>
+                <text>בְּרֵכֹ֣ות</text>
+                <refs nrefs='6-6'/>
+            </w>
+            <w n='6-4'>
+                <text>מָ֑יִם</text>
+                <refs nrefs='6-5'/>
+            </w>
+            <w n='6-5'>
+                <text>לְהַשְׁקֹ֣ות</text>
+                <refs nrefs='6-7 6-8 6-9 6-10'/>
+            </w>
+            <w n='6-6'>
+                <text>מֵהֶ֔ם</text>
+                <refs nrefs='6-11 6-12 6-14 6-15 6-16'/>
+            </w>
+            <w n='6-7'>
+                <text>יַ֖עַר</text>
+                <refs nrefs='6-11 6-12 6-14 6-15 6-16'/>
+            </w>
+            <w n='6-8'>
+                <text>צֹומֵ֥חַ</text>
+                <refs nrefs='6-11 6-12 6-14 6-15 6-16'/>
+            </w>
+            <w n='6-9'>
+                <text>עֵצִֽים</text>
+                <refs nrefs='6-13'/>
+            </w>
+            <w n='6-10'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='6-1'>
+                <text/>
+            </w>
+            <w n='6-2'>
+                <text>I</text>
+                <refs nrefs='6-1'/>
+            </w>
+            <w n='6-3'>
+                <text>made</text>
+                <refs nrefs='6-1'/>
+            </w>
+            <w n='6-4'>
+                <text>myself</text>
+                <refs nrefs='6-2'/>
+            </w>
+            <w n='6-5'>
+                <text>water</text>
+                <refs nrefs='6-4'/>
+            </w>
+            <w n='6-6'>
+                <text>pools</text>
+                <refs nrefs='6-3'/>
+            </w>
+            <w n='6-7'>
+                <text>from</text>
+                <refs nrefs='6-5'/>
+            </w>
+            <w n='6-8'>
+                <text>which</text>
+                <refs nrefs='6-5'/>
+            </w>
+            <w n='6-9'>
+                <text>to</text>
+                <refs nrefs='6-5'/>
+            </w>
+            <w n='6-10'>
+                <text>water</text>
+                <refs nrefs='6-5'/>
+            </w>
+            <w n='6-11'>
+                <text>the</text>
+                <refs nrefs='6-6 6-7 6-8'/>
+            </w>
+            <w n='6-12'>
+                <text>growing</text>
+                <refs nrefs='6-6 6-7 6-8'/>
+            </w>
+            <w n='6-13'>
+                <text>trees</text>
+                <refs nrefs='6-9'/>
+            </w>
+            <w n='6-14'>
+                <text>of</text>
+                <refs nrefs='6-6 6-7 6-8'/>
+            </w>
+            <w n='6-15'>
+                <text>the</text>
+                <refs nrefs='6-6 6-7 6-8'/>
+            </w>
+            <w n='6-16'>
+                <text>grove</text>
+                <refs nrefs='6-6 6-7 6-8'/>
+            </w>
+            <w n='6-17'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='7-1'>
+                <text>קָנִ֙יתִי֙</text>
+                <refs nrefs='7-1 7-2'/>
+            </w>
+            <w n='7-2'>
+                <text>עֲבָדִ֣ים</text>
+                <refs nrefs='7-3 7-6'/>
+            </w>
+            <w n='7-3'>
+                <text>וּשְׁפָחֹ֔ות</text>
+                <refs nrefs='7-4 7-5'/>
+            </w>
+            <w n='7-4'>
+                <text>וּבְנֵי־בַ֖יִת</text>
+                <refs nrefs='7-8 7-9 7-10 7-11 7-12 7-13 7-14'/>
+            </w>
+            <w n='7-5'>
+                <text>הָ֣יָה</text>
+                <refs nrefs='7-19'/>
+            </w>
+            <w n='7-6'>
+                <text>לִ֑י</text>
+                <refs nrefs='7-18'/>
+            </w>
+            <w n='7-7'>
+                <text>גַּ֣ם</text>
+                <refs nrefs='7-16'/>
+            </w>
+            <w n='7-8'>
+                <text>מִקְנֶה֩</text>
+                <refs nrefs='7-21'/>
+            </w>
+            <w n='7-9'>
+                <text>בָקָ֨ר</text>
+                <refs nrefs='7-20'/>
+            </w>
+            <w n='7-10'>
+                <text>וָצֹ֤אן</text>
+                <refs nrefs='7-22 7-23 7-24 7-25'/>
+            </w>
+            <w n='7-11'>
+                <text>הַרְבֵּה֙</text>
+                <refs nrefs='7-26'/>
+            </w>
+            <w n='7-12'>
+                <text>הָ֣יָה</text>
+                <refs nrefs='7-19'/>
+            </w>
+            <w n='7-13'>
+                <text>לִ֔י</text>
+                <refs nrefs='7-18'/>
+            </w>
+            <w n='7-14'>
+                <text>מִכֹּ֛ל</text>
+                <refs nrefs='7-27'/>
+            </w>
+            <w n='7-15'>
+                <text>שֶֽׁהָי֥וּ</text>
+                <refs nrefs='7-28 7-29'/>
+            </w>
+            <w n='7-16'>
+                <text>לְפָנַ֖י</text>
+                <refs nrefs='7-32 7-33'/>
+            </w>
+            <w n='7-17'>
+                <text>בִּירוּשָׁלִָֽם</text>
+                <refs nrefs='7-30 7-31'/>
+            </w>
+            <w n='7-18'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='7-1'>
+                <text>I</text>
+                <refs nrefs='7-1'/>
+            </w>
+            <w n='7-2'>
+                <text>acquired</text>
+                <refs nrefs='7-1'/>
+            </w>
+            <w n='7-3'>
+                <text>male</text>
+                <refs nrefs='7-2'/>
+            </w>
+            <w n='7-4'>
+                <text>and</text>
+                <refs nrefs='7-3'/>
+            </w>
+            <w n='7-5'>
+                <text>female</text>
+                <refs nrefs='7-3'/>
+            </w>
+            <w n='7-6'>
+                <text>servants</text>
+                <refs nrefs='7-2'/>
+            </w>
+            <w n='7-7'>
+                <text>,</text>
+            </w>
+            <w n='7-8'>
+                <text>and</text>
+                <refs nrefs='7-4'/>
+            </w>
+            <w n='7-9'>
+                <text>had</text>
+                <refs nrefs='7-4'/>
+            </w>
+            <w n='7-10'>
+                <text>servants</text>
+                <refs nrefs='7-4'/>
+            </w>
+            <w n='7-11'>
+                <text>born</text>
+                <refs nrefs='7-4'/>
+            </w>
+            <w n='7-12'>
+                <text>in</text>
+                <refs nrefs='7-4'/>
+            </w>
+            <w n='7-13'>
+                <text>my</text>
+                <refs nrefs='7-4'/>
+            </w>
+            <w n='7-14'>
+                <text>house</text>
+                <refs nrefs='7-4'/>
+            </w>
+            <w n='7-15'>
+                <text>.</text>
+            </w>
+            <w n='7-16'>
+                <text>Yes</text>
+                <refs nrefs='7-7'/>
+            </w>
+            <w n='7-17'>
+                <text>,</text>
+            </w>
+            <w n='7-18'>
+                <text>I</text>
+                <refs nrefs='7-6 7-13'/>
+            </w>
+            <w n='7-19'>
+                <text>had</text>
+                <refs nrefs='7-5 7-12'/>
+            </w>
+            <w n='7-20'>
+                <text>greater</text>
+                <refs nrefs='7-9'/>
+            </w>
+            <w n='7-21'>
+                <text>possessions</text>
+                <refs nrefs='7-8'/>
+            </w>
+            <w n='7-22'>
+                <text>of</text>
+                <refs nrefs='7-10'/>
+            </w>
+            <w n='7-23'>
+                <text>herds</text>
+                <refs nrefs='7-10'/>
+            </w>
+            <w n='7-24'>
+                <text>and</text>
+                <refs nrefs='7-10'/>
+            </w>
+            <w n='7-25'>
+                <text>flocks</text>
+                <refs nrefs='7-10'/>
+            </w>
+            <w n='7-26'>
+                <text>than</text>
+                <refs nrefs='7-11'/>
+            </w>
+            <w n='7-27'>
+                <text>all</text>
+                <refs nrefs='7-14'/>
+            </w>
+            <w n='7-28'>
+                <text>who</text>
+                <refs nrefs='7-15'/>
+            </w>
+            <w n='7-29'>
+                <text>were</text>
+                <refs nrefs='7-15'/>
+            </w>
+            <w n='7-30'>
+                <text>in</text>
+                <refs nrefs='7-17'/>
+            </w>
+            <w n='7-31'>
+                <text>Jerusalem</text>
+                <refs nrefs='7-17'/>
+            </w>
+            <w n='7-32'>
+                <text>before</text>
+                <refs nrefs='7-16'/>
+            </w>
+            <w n='7-33'>
+                <text>me</text>
+                <refs nrefs='7-16'/>
+            </w>
+            <w n='7-34'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='8-1'>
+                <text>כָּנַ֤סְתִּי</text>
+                <refs nrefs='8-1 8-3'/>
+            </w>
+            <w n='8-2'>
+                <text>לִי֙</text>
+                <refs nrefs='8-4 8-5'/>
+            </w>
+            <w n='8-3'>
+                <text>גַּם־כֶּ֣סֶף</text>
+                <refs nrefs='8-2 8-6'/>
+            </w>
+            <w n='8-4'>
+                <text>וְזָהָ֔ב</text>
+                <refs nrefs='8-7 8-8'/>
+            </w>
+            <w n='8-5'>
+                <text>וּסְגֻלַּ֥ת</text>
+                <refs nrefs='8-9 8-10 8-11 8-12'/>
+            </w>
+            <w n='8-6'>
+                <text>מְלָכִ֖ים</text>
+                <refs nrefs='8-13 8-14'/>
+            </w>
+            <w n='8-7'>
+                <text>וְהַמְּדִינֹ֑ות</text>
+                <refs nrefs='8-15 8-16 8-17 8-18'/>
+            </w>
+            <w n='8-8'>
+                <text>עָשִׂ֨יתִי</text>
+                <refs nrefs='8-21'/>
+            </w>
+            <w n='8-9'>
+                <text>לִ֜י</text>
+                <refs nrefs='8-20'/>
+            </w>
+            <w n='8-10'>
+                <text>שָׁרִ֣ים</text>
+                <refs nrefs='8-22 8-25'/>
+            </w>
+            <w n='8-11'>
+                <text>וְשָׁרֹ֗ות</text>
+                <refs nrefs='8-23 8-24'/>
+            </w>
+            <w n='8-12'>
+                <text>וְתַעֲנוּגֹ֛ת</text>
+                <refs nrefs='8-27 8-28 8-29'/>
+            </w>
+            <w n='8-13'>
+                <text>בְּנֵ֥י</text>
+                <refs nrefs='8-30 8-31'/>
+            </w>
+            <w n='8-14'>
+                <text>הָאָדָ֖ם</text>
+                <refs nrefs='8-32 8-33'/>
+            </w>
+            <w n='8-15'>
+                <text>שִׁדָּ֥ה</text>
+            </w>
+            <w n='8-16'>
+                <text>וְשִׁדֹּֽות</text>
+            </w>
+            <w n='8-17'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='8-1'>
+                <text>I</text>
+                <refs nrefs='8-1'/>
+            </w>
+            <w n='8-2'>
+                <text>also</text>
+                <refs nrefs='8-3'/>
+            </w>
+            <w n='8-3'>
+                <text>gathered</text>
+                <refs nrefs='8-1'/>
+            </w>
+            <w n='8-4'>
+                <text>for</text>
+                <refs nrefs='8-2'/>
+            </w>
+            <w n='8-5'>
+                <text>myself</text>
+                <refs nrefs='8-2'/>
+            </w>
+            <w n='8-6'>
+                <text>silver</text>
+                <refs nrefs='8-3'/>
+            </w>
+            <w n='8-7'>
+                <text>and</text>
+                <refs nrefs='8-4'/>
+            </w>
+            <w n='8-8'>
+                <text>gold</text>
+                <refs nrefs='8-4'/>
+            </w>
+            <w n='8-9'>
+                <text>and</text>
+                <refs nrefs='8-5'/>
+            </w>
+            <w n='8-10'>
+                <text>the</text>
+                <refs nrefs='8-5'/>
+            </w>
+            <w n='8-11'>
+                <text>special</text>
+                <refs nrefs='8-5'/>
+            </w>
+            <w n='8-12'>
+                <text>treasures</text>
+                <refs nrefs='8-5'/>
+            </w>
+            <w n='8-13'>
+                <text>of</text>
+                <refs nrefs='8-6'/>
+            </w>
+            <w n='8-14'>
+                <text>kings</text>
+                <refs nrefs='8-6'/>
+            </w>
+            <w n='8-15'>
+                <text>and</text>
+                <refs nrefs='8-7'/>
+            </w>
+            <w n='8-16'>
+                <text>of</text>
+                <refs nrefs='8-7'/>
+            </w>
+            <w n='8-17'>
+                <text>the</text>
+                <refs nrefs='8-7'/>
+            </w>
+            <w n='8-18'>
+                <text>provinces</text>
+                <refs nrefs='8-7'/>
+            </w>
+            <w n='8-19'>
+                <text>.</text>
+            </w>
+            <w n='8-20'>
+                <text>I</text>
+                <refs nrefs='8-9'/>
+            </w>
+            <w n='8-21'>
+                <text>acquired</text>
+                <refs nrefs='8-8'/>
+            </w>
+            <w n='8-22'>
+                <text>male</text>
+                <refs nrefs='8-10'/>
+            </w>
+            <w n='8-23'>
+                <text>and</text>
+                <refs nrefs='8-11'/>
+            </w>
+            <w n='8-24'>
+                <text>female</text>
+                <refs nrefs='8-11'/>
+            </w>
+            <w n='8-25'>
+                <text>singers</text>
+                <refs nrefs='8-10'/>
+            </w>
+            <w n='8-26'>
+                <text>,</text>
+            </w>
+            <w n='8-27'>
+                <text>the</text>
+                <refs nrefs='8-12'/>
+            </w>
+            <w n='8-28'>
+                <text>delights</text>
+                <refs nrefs='8-12'/>
+            </w>
+            <w n='8-29'>
+                <text>of</text>
+                <refs nrefs='8-12'/>
+            </w>
+            <w n='8-30'>
+                <text>the</text>
+                <refs nrefs='8-13'/>
+            </w>
+            <w n='8-31'>
+                <text>sons</text>
+                <refs nrefs='8-13'/>
+            </w>
+            <w n='8-32'>
+                <text>of</text>
+                <refs nrefs='8-14'/>
+            </w>
+            <w n='8-33'>
+                <text>men</text>
+                <refs nrefs='8-14'/>
+            </w>
+            <w n='8-34'>
+                <text>,</text>
+            </w>
+            <w n='8-35'>
+                <text>and</text>
+            </w>
+            <w n='8-36'>
+                <text>musical</text>
+            </w>
+            <w n='8-37'>
+                <text>instruments</text>
+            </w>
+            <w n='8-38'>
+                <text>of</text>
+            </w>
+            <w n='8-39'>
+                <text>all</text>
+            </w>
+            <w n='8-40'>
+                <text>kinds</text>
+            </w>
+            <w n='8-41'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='9-1'>
+                <text>וְגָדַ֣לְתִּי</text>
+                <refs nrefs='9-2 9-3 9-4 9-5'/>
+            </w>
+            <w n='9-2'>
+                <text>וְהֹוסַ֔פְתִּי</text>
+                <refs nrefs='9-6 9-7'/>
+            </w>
+            <w n='9-3'>
+                <text>מִכֹּ֛ל</text>
+                <refs nrefs='9-8 9-9 9-10'/>
+            </w>
+            <w n='9-4'>
+                <text>שֶׁהָיָ֥ה</text>
+                <refs nrefs='9-11 9-12'/>
+            </w>
+            <w n='9-5'>
+                <text>לְפָנַ֖י</text>
+                <refs nrefs='9-13 9-14'/>
+            </w>
+            <w n='9-6'>
+                <text>בִּירוּשָׁלִָ֑ם</text>
+                <refs nrefs='9-15 9-16'/>
+            </w>
+            <w n='9-7'>
+                <text>אַ֥ף</text>
+                <refs nrefs='9-18'/>
+            </w>
+            <w n='9-8'>
+                <text>חָכְמָתִ֖י</text>
+                <refs nrefs='9-19 9-20'/>
+            </w>
+            <w n='9-9'>
+                <text>עָ֥מְדָה</text>
+                <refs nrefs='9-21'/>
+            </w>
+            <w n='9-10'>
+                <text>לִּֽי</text>
+                <refs nrefs='9-22 9-23'/>
+            </w>
+            <w n='9-11'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='9-1'>
+                <text/>
+            </w>
+            <w n='9-2'>
+                <text>So</text>
+                <refs nrefs='9-1'/>
+            </w>
+            <w n='9-3'>
+                <text>I</text>
+                <refs nrefs='9-1'/>
+            </w>
+            <w n='9-4'>
+                <text>became</text>
+                <refs nrefs='9-1'/>
+            </w>
+            <w n='9-5'>
+                <text>great</text>
+                <refs nrefs='9-1'/>
+            </w>
+            <w n='9-6'>
+                <text>and</text>
+                <refs nrefs='9-2'/>
+            </w>
+            <w n='9-7'>
+                <text>excelled</text>
+                <refs nrefs='9-2'/>
+            </w>
+            <w n='9-8'>
+                <text>more</text>
+                <refs nrefs='9-3'/>
+            </w>
+            <w n='9-9'>
+                <text>than</text>
+                <refs nrefs='9-3'/>
+            </w>
+            <w n='9-10'>
+                <text>all</text>
+                <refs nrefs='9-3'/>
+            </w>
+            <w n='9-11'>
+                <text>who</text>
+                <refs nrefs='9-4'/>
+            </w>
+            <w n='9-12'>
+                <text>were</text>
+                <refs nrefs='9-4'/>
+            </w>
+            <w n='9-13'>
+                <text>before</text>
+                <refs nrefs='9-5'/>
+            </w>
+            <w n='9-14'>
+                <text>me</text>
+                <refs nrefs='9-5'/>
+            </w>
+            <w n='9-15'>
+                <text>in</text>
+                <refs nrefs='9-6'/>
+            </w>
+            <w n='9-16'>
+                <text>Jerusalem</text>
+                <refs nrefs='9-6'/>
+            </w>
+            <w n='9-17'>
+                <text>.</text>
+            </w>
+            <w n='9-18'>
+                <text>Also</text>
+                <refs nrefs='9-7'/>
+            </w>
+            <w n='9-19'>
+                <text>my</text>
+                <refs nrefs='9-8'/>
+            </w>
+            <w n='9-20'>
+                <text>wisdom</text>
+                <refs nrefs='9-8'/>
+            </w>
+            <w n='9-21'>
+                <text>remained</text>
+                <refs nrefs='9-9'/>
+            </w>
+            <w n='9-22'>
+                <text>with</text>
+                <refs nrefs='9-10'/>
+            </w>
+            <w n='9-23'>
+                <text>me</text>
+                <refs nrefs='9-10'/>
+            </w>
+            <w n='9-24'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='10-1'>
+                <text>וְכֹל֙</text>
+                <refs nrefs='10-1'/>
+            </w>
+            <w n='10-2'>
+                <text>אֲשֶׁ֣ר</text>
+                <refs nrefs='10-4'/>
+            </w>
+            <w n='10-3'>
+                <text>שָֽׁאֲל֣וּ</text>
+                <refs nrefs='10-4'/>
+            </w>
+            <w n='10-4'>
+                <text>עֵינַ֔י</text>
+                <refs nrefs='10-2 10-3'/>
+            </w>
+            <w n='10-5'>
+                <text>לֹ֥א</text>
+                <refs nrefs='10-7'/>
+            </w>
+            <w n='10-6'>
+                <text>אָצַ֖לְתִּי</text>
+                <refs nrefs='10-5 10-6 10-8'/>
+            </w>
+            <w n='10-7'>
+                <text>מֵהֶ֑ם</text>
+                <refs nrefs='10-9 10-10'/>
+            </w>
+            <w n='10-8'>
+                <text>לֹֽא־מָנַ֨עְתִּי</text>
+                <refs nrefs='10-12 10-13 10-14 10-15'/>
+            </w>
+            <w n='10-9'>
+                <text>אֶת־לִבִּ֜י</text>
+                <refs nrefs='10-16 10-17'/>
+            </w>
+            <w n='10-10'>
+                <text>מִכָּל־שִׂמְחָ֗ה</text>
+                <refs nrefs='10-18 10-19 10-20'/>
+            </w>
+            <w n='10-11'>
+                <text>כִּֽי־לִבִּ֤י</text>
+                <refs nrefs='10-22 10-23 10-24'/>
+            </w>
+            <w n='10-12'>
+                <text>שָׂמֵ֙חַ֙</text>
+                <refs nrefs='10-25'/>
+            </w>
+            <w n='10-13'>
+                <text>מִכָּל־עֲמָלִ֔י</text>
+                <refs nrefs='10-26 10-27 10-28 10-29'/>
+            </w>
+            <w n='10-14'>
+                <text>וְזֶֽה־הָיָ֥ה</text>
+                <refs nrefs='10-31 10-32 10-33'/>
+            </w>
+            <w n='10-15'>
+                <text>חֶלְקִ֖י</text>
+                <refs nrefs='10-34 10-35'/>
+            </w>
+            <w n='10-16'>
+                <text>מִכָּל־עֲמָלִֽי</text>
+                <refs nrefs='10-36 10-37 10-38 10-39'/>
+            </w>
+            <w n='10-17'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='10-1'>
+                <text>Whatever</text>
+                <refs nrefs='10-1'/>
+            </w>
+            <w n='10-2'>
+                <text>my</text>
+                <refs nrefs='10-4'/>
+            </w>
+            <w n='10-3'>
+                <text>eyes</text>
+                <refs nrefs='10-4'/>
+            </w>
+            <w n='10-4'>
+                <text>desired</text>
+                <refs nrefs='10-2 10-3'/>
+            </w>
+            <w n='10-5'>
+                <text>I</text>
+                <refs nrefs='10-6'/>
+            </w>
+            <w n='10-6'>
+                <text>did</text>
+                <refs nrefs='10-6'/>
+            </w>
+            <w n='10-7'>
+                <text>not</text>
+                <refs nrefs='10-5'/>
+            </w>
+            <w n='10-8'>
+                <text>keep</text>
+                <refs nrefs='10-6'/>
+            </w>
+            <w n='10-9'>
+                <text>from</text>
+                <refs nrefs='10-7'/>
+            </w>
+            <w n='10-10'>
+                <text>them</text>
+                <refs nrefs='10-7'/>
+            </w>
+            <w n='10-11'>
+                <text>.</text>
+            </w>
+            <w n='10-12'>
+                <text>
+I</text>
+                <refs nrefs='10-8'/>
+            </w>
+            <w n='10-13'>
+                <text>did</text>
+                <refs nrefs='10-8'/>
+            </w>
+            <w n='10-14'>
+                <text>not</text>
+                <refs nrefs='10-8'/>
+            </w>
+            <w n='10-15'>
+                <text>withhold</text>
+                <refs nrefs='10-8'/>
+            </w>
+            <w n='10-16'>
+                <text>my</text>
+                <refs nrefs='10-9'/>
+            </w>
+            <w n='10-17'>
+                <text>heart</text>
+                <refs nrefs='10-9'/>
+            </w>
+            <w n='10-18'>
+                <text>from</text>
+                <refs nrefs='10-10'/>
+            </w>
+            <w n='10-19'>
+                <text>any</text>
+                <refs nrefs='10-10'/>
+            </w>
+            <w n='10-20'>
+                <text>pleasure</text>
+                <refs nrefs='10-10'/>
+            </w>
+            <w n='10-21'>
+                <text>,</text>
+            </w>
+            <w n='10-22'>
+                <text>
+For</text>
+                <refs nrefs='10-11'/>
+            </w>
+            <w n='10-23'>
+                <text>my</text>
+                <refs nrefs='10-11'/>
+            </w>
+            <w n='10-24'>
+                <text>heart</text>
+                <refs nrefs='10-11'/>
+            </w>
+            <w n='10-25'>
+                <text>rejoiced</text>
+                <refs nrefs='10-12'/>
+            </w>
+            <w n='10-26'>
+                <text>in</text>
+                <refs nrefs='10-13'/>
+            </w>
+            <w n='10-27'>
+                <text>all</text>
+                <refs nrefs='10-13'/>
+            </w>
+            <w n='10-28'>
+                <text>my</text>
+                <refs nrefs='10-13'/>
+            </w>
+            <w n='10-29'>
+                <text>labor</text>
+                <refs nrefs='10-13'/>
+            </w>
+            <w n='10-30'>
+                <text>;</text>
+            </w>
+            <w n='10-31'>
+                <text>
+And</text>
+                <refs nrefs='10-14'/>
+            </w>
+            <w n='10-32'>
+                <text>this</text>
+                <refs nrefs='10-14'/>
+            </w>
+            <w n='10-33'>
+                <text>was</text>
+                <refs nrefs='10-14'/>
+            </w>
+            <w n='10-34'>
+                <text>my</text>
+                <refs nrefs='10-15'/>
+            </w>
+            <w n='10-35'>
+                <text>reward</text>
+                <refs nrefs='10-15'/>
+            </w>
+            <w n='10-36'>
+                <text>from</text>
+                <refs nrefs='10-16'/>
+            </w>
+            <w n='10-37'>
+                <text>all</text>
+                <refs nrefs='10-16'/>
+            </w>
+            <w n='10-38'>
+                <text>my</text>
+                <refs nrefs='10-16'/>
+            </w>
+            <w n='10-39'>
+                <text>labor</text>
+                <refs nrefs='10-16'/>
+            </w>
+            <w n='10-40'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='11-1'>
+                <text>וּפָנִ֣יתִֽי</text>
+                <refs nrefs='11-1 11-3'/>
+            </w>
+            <w n='11-2'>
+                <text>אֲנִ֗י</text>
+                <refs nrefs='11-2'/>
+            </w>
+            <w n='11-3'>
+                <text>בְּכָל־מַעֲשַׂי֙</text>
+                <refs nrefs='11-4 11-5 11-6 11-7'/>
+            </w>
+            <w n='11-4'>
+                <text>שֶֽׁעָשׂ֣וּ</text>
+                <refs nrefs='11-11 11-12'/>
+            </w>
+            <w n='11-5'>
+                <text>יָדַ֔י</text>
+                <refs nrefs='11-8 11-9 11-10'/>
+            </w>
+            <w n='11-6'>
+                <text>וּבֶֽעָמָ֖ל</text>
+                <refs nrefs='11-13 11-14 11-15 11-16'/>
+            </w>
+            <w n='11-7'>
+                <text>שֶׁעָמַ֣לְתִּי</text>
+                <refs nrefs='11-17 11-18 11-19 11-20 11-21'/>
+            </w>
+            <w n='11-8'>
+                <text>לַעֲשֹׂ֑ות</text>
+                <refs nrefs='11-17 11-18 11-19 11-20 11-21'/>
+            </w>
+            <w n='11-9'>
+                <text>וְהִנֵּ֨ה</text>
+                <refs nrefs='11-23 11-24'/>
+            </w>
+            <w n='11-10'>
+                <text>הַכֹּ֥ל</text>
+                <refs nrefs='11-25'/>
+            </w>
+            <w n='11-11'>
+                <text>הֶ֙בֶל֙</text>
+                <refs nrefs='11-27'/>
+            </w>
+            <w n='11-12'>
+                <text>וּרְע֣וּת</text>
+                <refs nrefs='11-28 11-29 11-30'/>
+            </w>
+            <w n='11-13'>
+                <text>ר֔וּחַ</text>
+                <refs nrefs='11-31 11-32'/>
+            </w>
+            <w n='11-14'>
+                <text>וְאֵ֥ין</text>
+                <refs nrefs='11-34 11-35 11-36'/>
+            </w>
+            <w n='11-15'>
+                <text>יִתְרֹ֖ון</text>
+                <refs nrefs='11-37'/>
+            </w>
+            <w n='11-16'>
+                <text>תַּ֥חַת</text>
+                <refs nrefs='11-38'/>
+            </w>
+            <w n='11-17'>
+                <text>הַשָּֽׁמֶשׁ</text>
+                <refs nrefs='11-39 11-40'/>
+            </w>
+            <w n='11-18'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='11-1'>
+                <text>Then</text>
+                <refs nrefs='11-1'/>
+            </w>
+            <w n='11-2'>
+                <text>I</text>
+                <refs nrefs='11-2'/>
+            </w>
+            <w n='11-3'>
+                <text>looked</text>
+                <refs nrefs='11-1'/>
+            </w>
+            <w n='11-4'>
+                <text>on</text>
+                <refs nrefs='11-3'/>
+            </w>
+            <w n='11-5'>
+                <text>all</text>
+                <refs nrefs='11-3'/>
+            </w>
+            <w n='11-6'>
+                <text>the</text>
+                <refs nrefs='11-3'/>
+            </w>
+            <w n='11-7'>
+                <text>works</text>
+                <refs nrefs='11-3'/>
+            </w>
+            <w n='11-8'>
+                <text>that</text>
+                <refs nrefs='11-5'/>
+            </w>
+            <w n='11-9'>
+                <text>my</text>
+                <refs nrefs='11-5'/>
+            </w>
+            <w n='11-10'>
+                <text>hands</text>
+                <refs nrefs='11-5'/>
+            </w>
+            <w n='11-11'>
+                <text>had</text>
+                <refs nrefs='11-4'/>
+            </w>
+            <w n='11-12'>
+                <text>done</text>
+                <refs nrefs='11-4'/>
+            </w>
+            <w n='11-13'>
+                <text>
+And</text>
+                <refs nrefs='11-6'/>
+            </w>
+            <w n='11-14'>
+                <text>on</text>
+                <refs nrefs='11-6'/>
+            </w>
+            <w n='11-15'>
+                <text>the</text>
+                <refs nrefs='11-6'/>
+            </w>
+            <w n='11-16'>
+                <text>labor</text>
+                <refs nrefs='11-6'/>
+            </w>
+            <w n='11-17'>
+                <text>in</text>
+                <refs nrefs='11-7 11-8'/>
+            </w>
+            <w n='11-18'>
+                <text>which</text>
+                <refs nrefs='11-7 11-8'/>
+            </w>
+            <w n='11-19'>
+                <text>I</text>
+                <refs nrefs='11-7 11-8'/>
+            </w>
+            <w n='11-20'>
+                <text>had</text>
+                <refs nrefs='11-7 11-8'/>
+            </w>
+            <w n='11-21'>
+                <text>toiled</text>
+                <refs nrefs='11-7 11-8'/>
+            </w>
+            <w n='11-22'>
+                <text>;</text>
+            </w>
+            <w n='11-23'>
+                <text>
+And</text>
+                <refs nrefs='11-9'/>
+            </w>
+            <w n='11-24'>
+                <text>indeed</text>
+                <refs nrefs='11-9'/>
+            </w>
+            <w n='11-25'>
+                <text>all</text>
+                <refs nrefs='11-10'/>
+            </w>
+            <w n='11-26'>
+                <text>was</text>
+            </w>
+            <w n='11-27'>
+                <text>vanity</text>
+                <refs nrefs='11-11'/>
+            </w>
+            <w n='11-28'>
+                <text>and</text>
+                <refs nrefs='11-12'/>
+            </w>
+            <w n='11-29'>
+                <text>grasping</text>
+                <refs nrefs='11-12'/>
+            </w>
+            <w n='11-30'>
+                <text>for</text>
+                <refs nrefs='11-12'/>
+            </w>
+            <w n='11-31'>
+                <text>the</text>
+                <refs nrefs='11-13'/>
+            </w>
+            <w n='11-32'>
+                <text>wind</text>
+                <refs nrefs='11-13'/>
+            </w>
+            <w n='11-33'>
+                <text>.</text>
+            </w>
+            <w n='11-34'>
+                <text>
+There</text>
+                <refs nrefs='11-14'/>
+            </w>
+            <w n='11-35'>
+                <text>was</text>
+                <refs nrefs='11-14'/>
+            </w>
+            <w n='11-36'>
+                <text>no</text>
+                <refs nrefs='11-14'/>
+            </w>
+            <w n='11-37'>
+                <text>profit</text>
+                <refs nrefs='11-15'/>
+            </w>
+            <w n='11-38'>
+                <text>under</text>
+                <refs nrefs='11-16'/>
+            </w>
+            <w n='11-39'>
+                <text>the</text>
+                <refs nrefs='11-17'/>
+            </w>
+            <w n='11-40'>
+                <text>sun</text>
+                <refs nrefs='11-17'/>
+            </w>
+            <w n='11-41'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='12-1'>
+                <text>וּפָנִ֤יתִֽי</text>
+                <refs nrefs='12-1 12-3 12-4'/>
+            </w>
+            <w n='12-2'>
+                <text>אֲנִי֙</text>
+                <refs nrefs='12-2'/>
+            </w>
+            <w n='12-3'>
+                <text>לִרְאֹ֣ות</text>
+                <refs nrefs='12-5 12-6'/>
+            </w>
+            <w n='12-4'>
+                <text>חָכְמָ֔ה</text>
+                <refs nrefs='12-7'/>
+            </w>
+            <w n='12-5'>
+                <text>וְהֹולֵלֹ֖ות</text>
+                <refs nrefs='12-8 12-9'/>
+            </w>
+            <w n='12-6'>
+                <text>וְסִכְל֑וּת</text>
+                <refs nrefs='12-10 12-11'/>
+            </w>
+            <w n='12-7'>
+                <text>כִּ֣י</text>
+                <refs nrefs='12-13'/>
+            </w>
+            <w n='12-8'>
+                <text>׀</text>
+            </w>
+            <w n='12-9'>
+                <text>מֶ֣ה</text>
+                <refs nrefs='12-14'/>
+            </w>
+            <w n='12-10'>
+                <text>הָאָדָ֗ם</text>
+                <refs nrefs='12-16 12-17'/>
+            </w>
+            <w n='12-11'>
+                <text>שֶׁיָּבֹוא֙</text>
+                <refs nrefs='12-15 12-18 12-19 12-20'/>
+            </w>
+            <w n='12-12'>
+                <text>אַחֲרֵ֣י</text>
+                <refs nrefs='12-15 12-18 12-19 12-20'/>
+            </w>
+            <w n='12-13'>
+                <text>הַמֶּ֔לֶךְ</text>
+                <refs nrefs='12-21 12-22'/>
+            </w>
+            <w n='12-14'>
+                <text>אֵ֥ת</text>
+                <refs nrefs='12-25'/>
+            </w>
+            <w n='12-15'>
+                <text>אֲשֶׁר־כְּבָ֖ר</text>
+                <refs nrefs='12-26 12-28 12-29'/>
+            </w>
+            <w n='12-16'>
+                <text>עָשֽׂוּהוּ</text>
+                <refs nrefs='12-27 12-30'/>
+            </w>
+            <w n='12-17'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='12-1'>
+                <text>Then</text>
+                <refs nrefs='12-1'/>
+            </w>
+            <w n='12-2'>
+                <text>I</text>
+                <refs nrefs='12-2'/>
+            </w>
+            <w n='12-3'>
+                <text>turned</text>
+                <refs nrefs='12-1'/>
+            </w>
+            <w n='12-4'>
+                <text>myself</text>
+                <refs nrefs='12-1'/>
+            </w>
+            <w n='12-5'>
+                <text>to</text>
+                <refs nrefs='12-3'/>
+            </w>
+            <w n='12-6'>
+                <text>consider</text>
+                <refs nrefs='12-3'/>
+            </w>
+            <w n='12-7'>
+                <text>wisdom</text>
+                <refs nrefs='12-4'/>
+            </w>
+            <w n='12-8'>
+                <text>and</text>
+                <refs nrefs='12-5'/>
+            </w>
+            <w n='12-9'>
+                <text>madness</text>
+                <refs nrefs='12-5'/>
+            </w>
+            <w n='12-10'>
+                <text>and</text>
+                <refs nrefs='12-6'/>
+            </w>
+            <w n='12-11'>
+                <text>folly</text>
+                <refs nrefs='12-6'/>
+            </w>
+            <w n='12-12'>
+                <text>;</text>
+            </w>
+            <w n='12-13'>
+                <text>
+For</text>
+                <refs nrefs='12-7'/>
+            </w>
+            <w n='12-14'>
+                <text>what</text>
+                <refs nrefs='12-9'/>
+            </w>
+            <w n='12-15'>
+                <text>can</text>
+                <refs nrefs='12-11 12-12'/>
+            </w>
+            <w n='12-16'>
+                <text>the</text>
+                <refs nrefs='12-10'/>
+            </w>
+            <w n='12-17'>
+                <text>man</text>
+                <refs nrefs='12-10'/>
+            </w>
+            <w n='12-18'>
+                <text>do</text>
+                <refs nrefs='12-11 12-12'/>
+            </w>
+            <w n='12-19'>
+                <text>who</text>
+                <refs nrefs='12-11 12-12'/>
+            </w>
+            <w n='12-20'>
+                <text>succeeds</text>
+                <refs nrefs='12-11 12-12'/>
+            </w>
+            <w n='12-21'>
+                <text>the</text>
+                <refs nrefs='12-13'/>
+            </w>
+            <w n='12-22'>
+                <text>king</text>
+                <refs nrefs='12-13'/>
+            </w>
+            <w n='12-23'>
+                <text>?</text>
+            </w>
+            <w n='12-24'>
+                <text>—</text>
+            </w>
+            <w n='12-25'>
+                <text>
+Only</text>
+                <refs nrefs='12-14'/>
+            </w>
+            <w n='12-26'>
+                <text>what</text>
+                <refs nrefs='12-15'/>
+            </w>
+            <w n='12-27'>
+                <text>he</text>
+                <refs nrefs='12-16'/>
+            </w>
+            <w n='12-28'>
+                <text>has</text>
+                <refs nrefs='12-15'/>
+            </w>
+            <w n='12-29'>
+                <text>already</text>
+                <refs nrefs='12-15'/>
+            </w>
+            <w n='12-30'>
+                <text>done</text>
+                <refs nrefs='12-16'/>
+            </w>
+            <w n='12-31'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='13-1'>
+                <text>וְרָאִ֣יתִי</text>
+                <refs nrefs='13-1 13-3'/>
+            </w>
+            <w n='13-2'>
+                <text>אָ֔נִי</text>
+                <refs nrefs='13-2'/>
+            </w>
+            <w n='13-3'>
+                <text>שֶׁיֵּ֥שׁ</text>
+                <refs nrefs='13-4'/>
+            </w>
+            <w n='13-4'>
+                <text>יִתְרֹ֛ון</text>
+                <refs nrefs='13-6'/>
+            </w>
+            <w n='13-5'>
+                <text>לַֽחָכְמָ֖ה</text>
+                <refs nrefs='13-5'/>
+            </w>
+            <w n='13-6'>
+                <text>מִן־הַסִּכְל֑וּת</text>
+                <refs nrefs='13-7'/>
+            </w>
+            <w n='13-7'>
+                <text>כִּֽיתְרֹ֥ון</text>
+                <refs nrefs='13-9 13-11'/>
+            </w>
+            <w n='13-8'>
+                <text>הָאֹ֖ור</text>
+                <refs nrefs='13-10'/>
+            </w>
+            <w n='13-9'>
+                <text>מִן־הַחֹֽשֶׁךְ</text>
+                <refs nrefs='13-12'/>
+            </w>
+            <w n='13-10'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='13-1'>
+                <text>Then</text>
+                <refs nrefs='13-1'/>
+            </w>
+            <w n='13-2'>
+                <text>I</text>
+                <refs nrefs='13-2'/>
+            </w>
+            <w n='13-3'>
+                <text>saw</text>
+                <refs nrefs='13-1'/>
+            </w>
+            <w n='13-4'>
+                <text>that</text>
+                <refs nrefs='13-3'/>
+            </w>
+            <w n='13-5'>
+                <text>wisdom</text>
+                <refs nrefs='13-5'/>
+            </w>
+            <w n='13-6'>
+                <text>excels</text>
+                <refs nrefs='13-4'/>
+            </w>
+            <w n='13-7'>
+                <text>folly</text>
+                <refs nrefs='13-6'/>
+            </w>
+            <w n='13-8'>
+                <text/>
+            </w>
+            <w n='13-9'>
+                <text>
+As</text>
+                <refs nrefs='13-7'/>
+            </w>
+            <w n='13-10'>
+                <text>light</text>
+                <refs nrefs='13-8'/>
+            </w>
+            <w n='13-11'>
+                <text>excels</text>
+                <refs nrefs='13-7'/>
+            </w>
+            <w n='13-12'>
+                <text>darkness</text>
+                <refs nrefs='13-9'/>
+            </w>
+            <w n='13-13'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='14-1'>
+                <text>הֶֽחָכָם֙</text>
+                <refs nrefs='14-1 14-2 14-3'/>
+            </w>
+            <w n='14-2'>
+                <text>עֵינָ֣יו</text>
+                <refs nrefs='14-4'/>
+            </w>
+            <w n='14-3'>
+                <text>בְּרֹאשֹׁ֔ו</text>
+                <refs nrefs='14-6 14-7 14-8'/>
+            </w>
+            <w n='14-4'>
+                <text>וְהַכְּסִ֖יל</text>
+                <refs nrefs='14-10 14-11 14-12'/>
+            </w>
+            <w n='14-5'>
+                <text>בַּחֹ֣שֶׁךְ</text>
+                <refs nrefs='14-14 14-15'/>
+            </w>
+            <w n='14-6'>
+                <text>הֹולֵ֑ךְ</text>
+                <refs nrefs='14-13'/>
+            </w>
+            <w n='14-7'>
+                <text>וְיָדַ֣עְתִּי</text>
+                <refs nrefs='14-20'/>
+            </w>
+            <w n='14-8'>
+                <text>גַם־אָ֔נִי</text>
+                <refs nrefs='14-17 14-18 14-19'/>
+            </w>
+            <w n='14-9'>
+                <text>שֶׁמִּקְרֶ֥ה</text>
+                <refs nrefs='14-25'/>
+            </w>
+            <w n='14-10'>
+                <text>אֶחָ֖ד</text>
+                <refs nrefs='14-22 14-23 14-24'/>
+            </w>
+            <w n='14-11'>
+                <text>יִקְרֶ֥ה</text>
+                <refs nrefs='14-26 14-28'/>
+            </w>
+            <w n='14-12'>
+                <text>אֶת־כֻּלָּֽם</text>
+                <refs nrefs='14-27 14-29'/>
+            </w>
+            <w n='14-13'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='14-1'>
+                <text>The</text>
+                <refs nrefs='14-1'/>
+            </w>
+            <w n='14-2'>
+                <text>wise</text>
+                <refs nrefs='14-1'/>
+            </w>
+            <w n='14-3'>
+                <text>man’s</text>
+                <refs nrefs='14-1'/>
+            </w>
+            <w n='14-4'>
+                <text>eyes</text>
+                <refs nrefs='14-2'/>
+            </w>
+            <w n='14-5'>
+                <text>are</text>
+            </w>
+            <w n='14-6'>
+                <text>in</text>
+                <refs nrefs='14-3'/>
+            </w>
+            <w n='14-7'>
+                <text>his</text>
+                <refs nrefs='14-3'/>
+            </w>
+            <w n='14-8'>
+                <text>head</text>
+                <refs nrefs='14-3'/>
+            </w>
+            <w n='14-9'>
+                <text>,</text>
+            </w>
+            <w n='14-10'>
+                <text>
+But</text>
+                <refs nrefs='14-4'/>
+            </w>
+            <w n='14-11'>
+                <text>the</text>
+                <refs nrefs='14-4'/>
+            </w>
+            <w n='14-12'>
+                <text>fool</text>
+                <refs nrefs='14-4'/>
+            </w>
+            <w n='14-13'>
+                <text>walks</text>
+                <refs nrefs='14-6'/>
+            </w>
+            <w n='14-14'>
+                <text>in</text>
+                <refs nrefs='14-5'/>
+            </w>
+            <w n='14-15'>
+                <text>darkness</text>
+                <refs nrefs='14-5'/>
+            </w>
+            <w n='14-16'>
+                <text>.</text>
+            </w>
+            <w n='14-17'>
+                <text>
+Yet</text>
+                <refs nrefs='14-8'/>
+            </w>
+            <w n='14-18'>
+                <text>I</text>
+                <refs nrefs='14-8'/>
+            </w>
+            <w n='14-19'>
+                <text>myself</text>
+                <refs nrefs='14-8'/>
+            </w>
+            <w n='14-20'>
+                <text>perceived</text>
+                <refs nrefs='14-7'/>
+            </w>
+            <w n='14-21'>
+                <text/>
+            </w>
+            <w n='14-22'>
+                <text>
+That</text>
+                <refs nrefs='14-10'/>
+            </w>
+            <w n='14-23'>
+                <text>the</text>
+                <refs nrefs='14-10'/>
+            </w>
+            <w n='14-24'>
+                <text>same</text>
+                <refs nrefs='14-10'/>
+            </w>
+            <w n='14-25'>
+                <text>event</text>
+                <refs nrefs='14-9'/>
+            </w>
+            <w n='14-26'>
+                <text>happens</text>
+                <refs nrefs='14-11'/>
+            </w>
+            <w n='14-27'>
+                <text>to</text>
+                <refs nrefs='14-12'/>
+            </w>
+            <w n='14-28'>
+                <text>them</text>
+                <refs nrefs='14-11'/>
+            </w>
+            <w n='14-29'>
+                <text>all</text>
+                <refs nrefs='14-12'/>
+            </w>
+            <w n='14-30'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='15-1'>
+                <text>וְאָמַ֨רְתִּֽי</text>
+                <refs nrefs='15-1 15-3'/>
+            </w>
+            <w n='15-2'>
+                <text>אֲנִ֜י</text>
+                <refs nrefs='15-2'/>
+            </w>
+            <w n='15-3'>
+                <text>בְּלִבִּ֗י</text>
+                <refs nrefs='15-4 15-5 15-6'/>
+            </w>
+            <w n='15-4'>
+                <text>כְּמִקְרֵ֤ה</text>
+                <refs nrefs='15-9 15-10 15-11'/>
+            </w>
+            <w n='15-5'>
+                <text>הַכְּסִיל֙</text>
+                <refs nrefs='15-12 15-13 15-14'/>
+            </w>
+            <w n='15-6'>
+                <text>גַּם־אֲנִ֣י</text>
+                <refs nrefs='15-16 15-17'/>
+            </w>
+            <w n='15-7'>
+                <text>יִקְרֵ֔נִי</text>
+                <refs nrefs='15-18 15-19 15-20'/>
+            </w>
+            <w n='15-8'>
+                <text>וְלָ֧מָּה</text>
+                <refs nrefs='15-22 15-23'/>
+            </w>
+            <w n='15-9'>
+                <text>חָכַ֛מְתִּי</text>
+                <refs nrefs='15-28'/>
+            </w>
+            <w n='15-10'>
+                <text>אֲנִ֖י</text>
+                <refs nrefs='15-25'/>
+            </w>
+            <w n='15-11'>
+                <text>אָ֣ז</text>
+                <refs nrefs='15-26'/>
+            </w>
+            <w n='15-12'>
+                <text>יֹותֵ֑ר</text>
+                <refs nrefs='15-27'/>
+            </w>
+            <w n='15-13'>
+                <text>וְדִבַּ֣רְתִּי</text>
+                <refs nrefs='15-32 15-33 15-34'/>
+            </w>
+            <w n='15-14'>
+                <text>בְלִבִּ֔י</text>
+                <refs nrefs='15-35 15-36 15-37'/>
+            </w>
+            <w n='15-15'>
+                <text>שֶׁגַּם־זֶ֖ה</text>
+                <refs nrefs='15-40 15-41'/>
+            </w>
+            <w n='15-16'>
+                <text>הָֽבֶל</text>
+                <refs nrefs='15-43'/>
+            </w>
+            <w n='15-17'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='15-1'>
+                <text>So</text>
+                <refs nrefs='15-1'/>
+            </w>
+            <w n='15-2'>
+                <text>I</text>
+                <refs nrefs='15-2'/>
+            </w>
+            <w n='15-3'>
+                <text>said</text>
+                <refs nrefs='15-1'/>
+            </w>
+            <w n='15-4'>
+                <text>in</text>
+                <refs nrefs='15-3'/>
+            </w>
+            <w n='15-5'>
+                <text>my</text>
+                <refs nrefs='15-3'/>
+            </w>
+            <w n='15-6'>
+                <text>heart</text>
+                <refs nrefs='15-3'/>
+            </w>
+            <w n='15-7'>
+                <text>,</text>
+            </w>
+            <w n='15-8'>
+                <text>
+“</text>
+            </w>
+            <w n='15-9'>
+                <text>As</text>
+                <refs nrefs='15-4'/>
+            </w>
+            <w n='15-10'>
+                <text>it</text>
+                <refs nrefs='15-4'/>
+            </w>
+            <w n='15-11'>
+                <text>happens</text>
+                <refs nrefs='15-4'/>
+            </w>
+            <w n='15-12'>
+                <text>to</text>
+                <refs nrefs='15-5'/>
+            </w>
+            <w n='15-13'>
+                <text>the</text>
+                <refs nrefs='15-5'/>
+            </w>
+            <w n='15-14'>
+                <text>fool</text>
+                <refs nrefs='15-5'/>
+            </w>
+            <w n='15-15'>
+                <text>,</text>
+            </w>
+            <w n='15-16'>
+                <text>
+It</text>
+                <refs nrefs='15-6'/>
+            </w>
+            <w n='15-17'>
+                <text>also</text>
+                <refs nrefs='15-6'/>
+            </w>
+            <w n='15-18'>
+                <text>happens</text>
+                <refs nrefs='15-7'/>
+            </w>
+            <w n='15-19'>
+                <text>to</text>
+                <refs nrefs='15-7'/>
+            </w>
+            <w n='15-20'>
+                <text>me</text>
+                <refs nrefs='15-7'/>
+            </w>
+            <w n='15-21'>
+                <text>,</text>
+            </w>
+            <w n='15-22'>
+                <text>
+And</text>
+                <refs nrefs='15-8'/>
+            </w>
+            <w n='15-23'>
+                <text>why</text>
+                <refs nrefs='15-8'/>
+            </w>
+            <w n='15-24'>
+                <text>was</text>
+            </w>
+            <w n='15-25'>
+                <text>I</text>
+                <refs nrefs='15-10'/>
+            </w>
+            <w n='15-26'>
+                <text>then</text>
+                <refs nrefs='15-11'/>
+            </w>
+            <w n='15-27'>
+                <text>more</text>
+                <refs nrefs='15-12'/>
+            </w>
+            <w n='15-28'>
+                <text>wise</text>
+                <refs nrefs='15-9'/>
+            </w>
+            <w n='15-29'>
+                <text>?</text>
+            </w>
+            <w n='15-30'>
+                <text>”</text>
+            </w>
+            <w n='15-31'>
+                <text/>
+            </w>
+            <w n='15-32'>
+                <text>
+Then</text>
+                <refs nrefs='15-13'/>
+            </w>
+            <w n='15-33'>
+                <text>I</text>
+                <refs nrefs='15-13'/>
+            </w>
+            <w n='15-34'>
+                <text>said</text>
+                <refs nrefs='15-13'/>
+            </w>
+            <w n='15-35'>
+                <text>in</text>
+                <refs nrefs='15-14'/>
+            </w>
+            <w n='15-36'>
+                <text>my</text>
+                <refs nrefs='15-14'/>
+            </w>
+            <w n='15-37'>
+                <text>heart</text>
+                <refs nrefs='15-14'/>
+            </w>
+            <w n='15-38'>
+                <text>,</text>
+            </w>
+            <w n='15-39'>
+                <text>
+“</text>
+            </w>
+            <w n='15-40'>
+                <text>This</text>
+                <refs nrefs='15-15'/>
+            </w>
+            <w n='15-41'>
+                <text>also</text>
+                <refs nrefs='15-15'/>
+            </w>
+            <w n='15-42'>
+                <text>is</text>
+            </w>
+            <w n='15-43'>
+                <text>vanity</text>
+                <refs nrefs='15-16'/>
+            </w>
+            <w n='15-44'>
+                <text>.</text>
+            </w>
+            <w n='15-45'>
+                <text>”</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='16-1'>
+                <text>כִּי֩</text>
+                <refs nrefs='16-1'/>
+            </w>
+            <w n='16-2'>
+                <text>אֵ֨ין</text>
+                <refs nrefs='16-2 16-3 16-4'/>
+            </w>
+            <w n='16-3'>
+                <text>זִכְרֹ֧ון</text>
+                <refs nrefs='16-5 16-6'/>
+            </w>
+            <w n='16-4'>
+                <text>לֶחָכָ֛ם</text>
+                <refs nrefs='16-7 16-8 16-9'/>
+            </w>
+            <w n='16-5'>
+                <text>עִֽם־הַכְּסִ֖יל</text>
+                <refs nrefs='16-10 16-11 16-12 16-13'/>
+            </w>
+            <w n='16-6'>
+                <text>לְעֹולָ֑ם</text>
+                <refs nrefs='16-14'/>
+            </w>
+            <w n='16-7'>
+                <text>בְּשֶׁכְּבָ֞ר</text>
+                <refs nrefs='16-16 16-18 16-19 16-20'/>
+            </w>
+            <w n='16-8'>
+                <text>הַיָּמִ֤ים</text>
+                <refs nrefs='16-24 16-25 16-26'/>
+            </w>
+            <w n='16-9'>
+                <text>הַבָּאִים֙</text>
+                <refs nrefs='16-27 16-28'/>
+            </w>
+            <w n='16-10'>
+                <text>הַכֹּ֣ל</text>
+                <refs nrefs='16-17'/>
+            </w>
+            <w n='16-11'>
+                <text>נִשְׁכָּ֔ח</text>
+                <refs nrefs='16-21 16-22 16-23'/>
+            </w>
+            <w n='16-12'>
+                <text>וְאֵ֛יךְ</text>
+                <refs nrefs='16-30 16-31'/>
+            </w>
+            <w n='16-13'>
+                <text>יָמ֥וּת</text>
+                <refs nrefs='16-32 16-36'/>
+            </w>
+            <w n='16-14'>
+                <text>הֶחָכָ֖ם</text>
+                <refs nrefs='16-33 16-34 16-35'/>
+            </w>
+            <w n='16-15'>
+                <text>עִֽם־הַכְּסִֽיל</text>
+                <refs nrefs='16-38 16-39 16-40'/>
+            </w>
+            <w n='16-16'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='16-1'>
+                <text>For</text>
+                <refs nrefs='16-1'/>
+            </w>
+            <w n='16-2'>
+                <text>there</text>
+                <refs nrefs='16-2'/>
+            </w>
+            <w n='16-3'>
+                <text>is</text>
+                <refs nrefs='16-2'/>
+            </w>
+            <w n='16-4'>
+                <text>no</text>
+                <refs nrefs='16-2'/>
+            </w>
+            <w n='16-5'>
+                <text>more</text>
+                <refs nrefs='16-3'/>
+            </w>
+            <w n='16-6'>
+                <text>remembrance</text>
+                <refs nrefs='16-3'/>
+            </w>
+            <w n='16-7'>
+                <text>of</text>
+                <refs nrefs='16-4'/>
+            </w>
+            <w n='16-8'>
+                <text>the</text>
+                <refs nrefs='16-4'/>
+            </w>
+            <w n='16-9'>
+                <text>wise</text>
+                <refs nrefs='16-4'/>
+            </w>
+            <w n='16-10'>
+                <text>than</text>
+                <refs nrefs='16-5'/>
+            </w>
+            <w n='16-11'>
+                <text>of</text>
+                <refs nrefs='16-5'/>
+            </w>
+            <w n='16-12'>
+                <text>the</text>
+                <refs nrefs='16-5'/>
+            </w>
+            <w n='16-13'>
+                <text>fool</text>
+                <refs nrefs='16-5'/>
+            </w>
+            <w n='16-14'>
+                <text>forever</text>
+                <refs nrefs='16-6'/>
+            </w>
+            <w n='16-15'>
+                <text>,</text>
+            </w>
+            <w n='16-16'>
+                <text>
+Since</text>
+                <refs nrefs='16-7'/>
+            </w>
+            <w n='16-17'>
+                <text>all</text>
+                <refs nrefs='16-10'/>
+            </w>
+            <w n='16-18'>
+                <text>that</text>
+                <refs nrefs='16-7'/>
+            </w>
+            <w n='16-19'>
+                <text>now</text>
+                <refs nrefs='16-7'/>
+            </w>
+            <w n='16-20'>
+                <text>is</text>
+                <refs nrefs='16-7'/>
+            </w>
+            <w n='16-21'>
+                <text>will</text>
+                <refs nrefs='16-11'/>
+            </w>
+            <w n='16-22'>
+                <text>be</text>
+                <refs nrefs='16-11'/>
+            </w>
+            <w n='16-23'>
+                <text>forgotten</text>
+                <refs nrefs='16-11'/>
+            </w>
+            <w n='16-24'>
+                <text>in</text>
+                <refs nrefs='16-8'/>
+            </w>
+            <w n='16-25'>
+                <text>the</text>
+                <refs nrefs='16-8'/>
+            </w>
+            <w n='16-26'>
+                <text>days</text>
+                <refs nrefs='16-8'/>
+            </w>
+            <w n='16-27'>
+                <text>to</text>
+                <refs nrefs='16-9'/>
+            </w>
+            <w n='16-28'>
+                <text>come</text>
+                <refs nrefs='16-9'/>
+            </w>
+            <w n='16-29'>
+                <text>.</text>
+            </w>
+            <w n='16-30'>
+                <text>
+And</text>
+                <refs nrefs='16-12'/>
+            </w>
+            <w n='16-31'>
+                <text>how</text>
+                <refs nrefs='16-12'/>
+            </w>
+            <w n='16-32'>
+                <text>does</text>
+                <refs nrefs='16-13'/>
+            </w>
+            <w n='16-33'>
+                <text>a</text>
+                <refs nrefs='16-14'/>
+            </w>
+            <w n='16-34'>
+                <text>wise</text>
+                <refs nrefs='16-14'/>
+            </w>
+            <w n='16-35'>
+                <text>man</text>
+                <refs nrefs='16-14'/>
+            </w>
+            <w n='16-36'>
+                <text>die</text>
+                <refs nrefs='16-13'/>
+            </w>
+            <w n='16-37'>
+                <text>?</text>
+            </w>
+            <w n='16-38'>
+                <text>
+As</text>
+                <refs nrefs='16-15'/>
+            </w>
+            <w n='16-39'>
+                <text>the</text>
+                <refs nrefs='16-15'/>
+            </w>
+            <w n='16-40'>
+                <text>fool</text>
+                <refs nrefs='16-15'/>
+            </w>
+            <w n='16-41'>
+                <text>!</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='17-1'>
+                <text>וְשָׂנֵ֙אתִי֙</text>
+                <refs nrefs='17-1 17-2 17-3'/>
+            </w>
+            <w n='17-2'>
+                <text>אֶת־הַ֣חַיִּ֔ים</text>
+                <refs nrefs='17-4'/>
+            </w>
+            <w n='17-3'>
+                <text>כִּ֣י</text>
+                <refs nrefs='17-5'/>
+            </w>
+            <w n='17-4'>
+                <text>רַ֤ע</text>
+                <refs nrefs='17-15'/>
+            </w>
+            <w n='17-5'>
+                <text>עָלַי֙</text>
+                <refs nrefs='17-8'/>
+            </w>
+            <w n='17-6'>
+                <text>הַֽמַּעֲשֶׂ֔ה</text>
+                <refs nrefs='17-6 17-7'/>
+            </w>
+            <w n='17-7'>
+                <text>שֶׁנַּעֲשָׂ֖ה</text>
+                <refs nrefs='17-9 17-10'/>
+            </w>
+            <w n='17-8'>
+                <text>תַּ֣חַת</text>
+                <refs nrefs='17-11'/>
+            </w>
+            <w n='17-9'>
+                <text>הַשָּׁ֑מֶשׁ</text>
+                <refs nrefs='17-12 17-13'/>
+            </w>
+            <w n='17-10'>
+                <text>כִּֽי־הַכֹּ֥ל</text>
+                <refs nrefs='17-19 17-20'/>
+            </w>
+            <w n='17-11'>
+                <text>הֶ֖בֶל</text>
+                <refs nrefs='17-22'/>
+            </w>
+            <w n='17-12'>
+                <text>וּרְע֥וּת</text>
+                <refs nrefs='17-23 17-24 17-25'/>
+            </w>
+            <w n='17-13'>
+                <text>רֽוּחַ</text>
+                <refs nrefs='17-26 17-27'/>
+            </w>
+            <w n='17-14'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='17-1'>
+                <text>Therefore</text>
+                <refs nrefs='17-1'/>
+            </w>
+            <w n='17-2'>
+                <text>I</text>
+                <refs nrefs='17-1'/>
+            </w>
+            <w n='17-3'>
+                <text>hated</text>
+                <refs nrefs='17-1'/>
+            </w>
+            <w n='17-4'>
+                <text>life</text>
+                <refs nrefs='17-2'/>
+            </w>
+            <w n='17-5'>
+                <text>because</text>
+                <refs nrefs='17-3'/>
+            </w>
+            <w n='17-6'>
+                <text>the</text>
+                <refs nrefs='17-6'/>
+            </w>
+            <w n='17-7'>
+                <text>work</text>
+                <refs nrefs='17-6'/>
+            </w>
+            <w n='17-8'>
+                <text>that</text>
+                <refs nrefs='17-5'/>
+            </w>
+            <w n='17-9'>
+                <text>was</text>
+                <refs nrefs='17-7'/>
+            </w>
+            <w n='17-10'>
+                <text>done</text>
+                <refs nrefs='17-7'/>
+            </w>
+            <w n='17-11'>
+                <text>under</text>
+                <refs nrefs='17-8'/>
+            </w>
+            <w n='17-12'>
+                <text>the</text>
+                <refs nrefs='17-9'/>
+            </w>
+            <w n='17-13'>
+                <text>sun</text>
+                <refs nrefs='17-9'/>
+            </w>
+            <w n='17-14'>
+                <text>was</text>
+            </w>
+            <w n='17-15'>
+                <text>distressing</text>
+                <refs nrefs='17-4'/>
+            </w>
+            <w n='17-16'>
+                <text>to</text>
+            </w>
+            <w n='17-17'>
+                <text>me</text>
+            </w>
+            <w n='17-18'>
+                <text>,</text>
+            </w>
+            <w n='17-19'>
+                <text>for</text>
+                <refs nrefs='17-10'/>
+            </w>
+            <w n='17-20'>
+                <text>all</text>
+                <refs nrefs='17-10'/>
+            </w>
+            <w n='17-21'>
+                <text>is</text>
+            </w>
+            <w n='17-22'>
+                <text>vanity</text>
+                <refs nrefs='17-11'/>
+            </w>
+            <w n='17-23'>
+                <text>and</text>
+                <refs nrefs='17-12'/>
+            </w>
+            <w n='17-24'>
+                <text>grasping</text>
+                <refs nrefs='17-12'/>
+            </w>
+            <w n='17-25'>
+                <text>for</text>
+                <refs nrefs='17-12'/>
+            </w>
+            <w n='17-26'>
+                <text>the</text>
+                <refs nrefs='17-13'/>
+            </w>
+            <w n='17-27'>
+                <text>wind</text>
+                <refs nrefs='17-13'/>
+            </w>
+            <w n='17-28'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='18-1'>
+                <text>וְשָׂנֵ֤אתִֽי</text>
+                <refs nrefs='18-1 18-3'/>
+            </w>
+            <w n='18-2'>
+                <text>אֲנִי֙</text>
+                <refs nrefs='18-2'/>
+            </w>
+            <w n='18-3'>
+                <text>אֶת־כָּל־עֲמָלִ֔י</text>
+                <refs nrefs='18-4 18-5 18-6'/>
+            </w>
+            <w n='18-4'>
+                <text>שֶׁאֲנִ֥י</text>
+                <refs nrefs='18-9'/>
+            </w>
+            <w n='18-5'>
+                <text>עָמֵ֖ל</text>
+                <refs nrefs='18-10 18-11'/>
+            </w>
+            <w n='18-6'>
+                <text>תַּ֣חַת</text>
+                <refs nrefs='18-12'/>
+            </w>
+            <w n='18-7'>
+                <text>הַשָּׁ֑מֶשׁ</text>
+                <refs nrefs='18-13 18-14'/>
+            </w>
+            <w n='18-8'>
+                <text>שֶׁ֣אַנִּיחֶ֔נּוּ</text>
+                <refs nrefs='18-16 18-17 18-18 18-19 18-20'/>
+            </w>
+            <w n='18-9'>
+                <text>לָאָדָ֖ם</text>
+                <refs nrefs='18-21 18-22 18-23'/>
+            </w>
+            <w n='18-10'>
+                <text>שֶׁיִּהְיֶ֥ה</text>
+                <refs nrefs='18-24 18-25'/>
+            </w>
+            <w n='18-11'>
+                <text>אַחֲרָֽי</text>
+                <refs nrefs='18-26 18-27 18-28'/>
+            </w>
+            <w n='18-12'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='18-1'>
+                <text>Then</text>
+                <refs nrefs='18-1'/>
+            </w>
+            <w n='18-2'>
+                <text>I</text>
+                <refs nrefs='18-2'/>
+            </w>
+            <w n='18-3'>
+                <text>hated</text>
+                <refs nrefs='18-1'/>
+            </w>
+            <w n='18-4'>
+                <text>all</text>
+                <refs nrefs='18-3'/>
+            </w>
+            <w n='18-5'>
+                <text>my</text>
+                <refs nrefs='18-3'/>
+            </w>
+            <w n='18-6'>
+                <text>labor</text>
+                <refs nrefs='18-3'/>
+            </w>
+            <w n='18-7'>
+                <text>in</text>
+            </w>
+            <w n='18-8'>
+                <text>which</text>
+            </w>
+            <w n='18-9'>
+                <text>I</text>
+                <refs nrefs='18-4'/>
+            </w>
+            <w n='18-10'>
+                <text>had</text>
+                <refs nrefs='18-5'/>
+            </w>
+            <w n='18-11'>
+                <text>toiled</text>
+                <refs nrefs='18-5'/>
+            </w>
+            <w n='18-12'>
+                <text>under</text>
+                <refs nrefs='18-6'/>
+            </w>
+            <w n='18-13'>
+                <text>the</text>
+                <refs nrefs='18-7'/>
+            </w>
+            <w n='18-14'>
+                <text>sun</text>
+                <refs nrefs='18-7'/>
+            </w>
+            <w n='18-15'>
+                <text>,</text>
+            </w>
+            <w n='18-16'>
+                <text>because</text>
+                <refs nrefs='18-8'/>
+            </w>
+            <w n='18-17'>
+                <text>I</text>
+                <refs nrefs='18-8'/>
+            </w>
+            <w n='18-18'>
+                <text>must</text>
+                <refs nrefs='18-8'/>
+            </w>
+            <w n='18-19'>
+                <text>leave</text>
+                <refs nrefs='18-8'/>
+            </w>
+            <w n='18-20'>
+                <text>it</text>
+                <refs nrefs='18-8'/>
+            </w>
+            <w n='18-21'>
+                <text>to</text>
+                <refs nrefs='18-9'/>
+            </w>
+            <w n='18-22'>
+                <text>the</text>
+                <refs nrefs='18-9'/>
+            </w>
+            <w n='18-23'>
+                <text>man</text>
+                <refs nrefs='18-9'/>
+            </w>
+            <w n='18-24'>
+                <text>who</text>
+                <refs nrefs='18-10'/>
+            </w>
+            <w n='18-25'>
+                <text>will</text>
+                <refs nrefs='18-10'/>
+            </w>
+            <w n='18-26'>
+                <text>come</text>
+                <refs nrefs='18-11'/>
+            </w>
+            <w n='18-27'>
+                <text>after</text>
+                <refs nrefs='18-11'/>
+            </w>
+            <w n='18-28'>
+                <text>me</text>
+                <refs nrefs='18-11'/>
+            </w>
+            <w n='18-29'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='19-1'>
+                <text>וּמִ֣י</text>
+                <refs nrefs='19-1 19-2'/>
+            </w>
+            <w n='19-2'>
+                <text>יֹודֵ֗עַ</text>
+                <refs nrefs='19-3'/>
+            </w>
+            <w n='19-3'>
+                <text>הֶֽחָכָ֤ם</text>
+                <refs nrefs='19-8'/>
+            </w>
+            <w n='19-4'>
+                <text>יִהְיֶה֙</text>
+                <refs nrefs='19-4 19-5 19-6 19-7'/>
+            </w>
+            <w n='19-5'>
+                <text>אֹ֣ו</text>
+                <refs nrefs='19-9'/>
+            </w>
+            <w n='19-6'>
+                <text>סָכָ֔ל</text>
+                <refs nrefs='19-10 19-11'/>
+            </w>
+            <w n='19-7'>
+                <text>וְיִשְׁלַט֙</text>
+                <refs nrefs='19-13 19-14 19-15 19-16'/>
+            </w>
+            <w n='19-8'>
+                <text>בְּכָל־עֲמָלִ֔י</text>
+                <refs nrefs='19-17 19-18 19-19 19-20'/>
+            </w>
+            <w n='19-9'>
+                <text>שֶֽׁעָמַ֥לְתִּי</text>
+                <refs nrefs='19-21 19-22 19-23 19-24'/>
+            </w>
+            <w n='19-10'>
+                <text>וְשֶׁחָכַ֖מְתִּי</text>
+                <refs nrefs='19-25 19-26 19-27 19-28 19-29 19-30 19-31 19-32'/>
+            </w>
+            <w n='19-11'>
+                <text>תַּ֣חַת</text>
+                <refs nrefs='19-33'/>
+            </w>
+            <w n='19-12'>
+                <text>הַשָּׁ֑מֶשׁ</text>
+                <refs nrefs='19-34 19-35'/>
+            </w>
+            <w n='19-13'>
+                <text>גַּם־זֶ֖ה</text>
+                <refs nrefs='19-37 19-38'/>
+            </w>
+            <w n='19-14'>
+                <text>הָֽבֶל</text>
+                <refs nrefs='19-40'/>
+            </w>
+            <w n='19-15'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='19-1'>
+                <text>And</text>
+                <refs nrefs='19-1'/>
+            </w>
+            <w n='19-2'>
+                <text>who</text>
+                <refs nrefs='19-1'/>
+            </w>
+            <w n='19-3'>
+                <text>knows</text>
+                <refs nrefs='19-2'/>
+            </w>
+            <w n='19-4'>
+                <text>whether</text>
+                <refs nrefs='19-4'/>
+            </w>
+            <w n='19-5'>
+                <text>he</text>
+                <refs nrefs='19-4'/>
+            </w>
+            <w n='19-6'>
+                <text>will</text>
+                <refs nrefs='19-4'/>
+            </w>
+            <w n='19-7'>
+                <text>be</text>
+                <refs nrefs='19-4'/>
+            </w>
+            <w n='19-8'>
+                <text>wise</text>
+                <refs nrefs='19-3'/>
+            </w>
+            <w n='19-9'>
+                <text>or</text>
+                <refs nrefs='19-5'/>
+            </w>
+            <w n='19-10'>
+                <text>a</text>
+                <refs nrefs='19-6'/>
+            </w>
+            <w n='19-11'>
+                <text>fool</text>
+                <refs nrefs='19-6'/>
+            </w>
+            <w n='19-12'>
+                <text>?</text>
+            </w>
+            <w n='19-13'>
+                <text>Yet</text>
+                <refs nrefs='19-7'/>
+            </w>
+            <w n='19-14'>
+                <text>he</text>
+                <refs nrefs='19-7'/>
+            </w>
+            <w n='19-15'>
+                <text>will</text>
+                <refs nrefs='19-7'/>
+            </w>
+            <w n='19-16'>
+                <text>rule</text>
+                <refs nrefs='19-7'/>
+            </w>
+            <w n='19-17'>
+                <text>over</text>
+                <refs nrefs='19-8'/>
+            </w>
+            <w n='19-18'>
+                <text>all</text>
+                <refs nrefs='19-8'/>
+            </w>
+            <w n='19-19'>
+                <text>my</text>
+                <refs nrefs='19-8'/>
+            </w>
+            <w n='19-20'>
+                <text>labor</text>
+                <refs nrefs='19-8'/>
+            </w>
+            <w n='19-21'>
+                <text>in</text>
+                <refs nrefs='19-9'/>
+            </w>
+            <w n='19-22'>
+                <text>which</text>
+                <refs nrefs='19-9'/>
+            </w>
+            <w n='19-23'>
+                <text>I</text>
+                <refs nrefs='19-9'/>
+            </w>
+            <w n='19-24'>
+                <text>toiled</text>
+                <refs nrefs='19-9'/>
+            </w>
+            <w n='19-25'>
+                <text>and</text>
+                <refs nrefs='19-10'/>
+            </w>
+            <w n='19-26'>
+                <text>in</text>
+                <refs nrefs='19-10'/>
+            </w>
+            <w n='19-27'>
+                <text>which</text>
+                <refs nrefs='19-10'/>
+            </w>
+            <w n='19-28'>
+                <text>I</text>
+                <refs nrefs='19-10'/>
+            </w>
+            <w n='19-29'>
+                <text>have</text>
+                <refs nrefs='19-10'/>
+            </w>
+            <w n='19-30'>
+                <text>shown</text>
+                <refs nrefs='19-10'/>
+            </w>
+            <w n='19-31'>
+                <text>myself</text>
+                <refs nrefs='19-10'/>
+            </w>
+            <w n='19-32'>
+                <text>wise</text>
+                <refs nrefs='19-10'/>
+            </w>
+            <w n='19-33'>
+                <text>under</text>
+                <refs nrefs='19-11'/>
+            </w>
+            <w n='19-34'>
+                <text>the</text>
+                <refs nrefs='19-12'/>
+            </w>
+            <w n='19-35'>
+                <text>sun</text>
+                <refs nrefs='19-12'/>
+            </w>
+            <w n='19-36'>
+                <text>.</text>
+            </w>
+            <w n='19-37'>
+                <text>This</text>
+                <refs nrefs='19-13'/>
+            </w>
+            <w n='19-38'>
+                <text>also</text>
+                <refs nrefs='19-13'/>
+            </w>
+            <w n='19-39'>
+                <text>is</text>
+            </w>
+            <w n='19-40'>
+                <text>vanity</text>
+                <refs nrefs='19-14'/>
+            </w>
+            <w n='19-41'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='20-1'>
+                <text>וְסַבֹּ֥ותִֽי</text>
+                <refs nrefs='20-2 20-4'/>
+            </w>
+            <w n='20-2'>
+                <text>אֲנִ֖י</text>
+                <refs nrefs='20-3'/>
+            </w>
+            <w n='20-3'>
+                <text>לְיַאֵ֣שׁ</text>
+                <refs nrefs='20-8'/>
+            </w>
+            <w n='20-4'>
+                <text>אֶת־לִבִּ֑י</text>
+                <refs nrefs='20-5 20-6'/>
+            </w>
+            <w n='20-5'>
+                <text>עַ֚ל</text>
+                <refs nrefs='20-9'/>
+            </w>
+            <w n='20-6'>
+                <text>כָּל־הֶ֣עָמָ֔ל</text>
+                <refs nrefs='20-10 20-11 20-12'/>
+            </w>
+            <w n='20-7'>
+                <text>שֶׁעָמַ֖לְתִּי</text>
+                <refs nrefs='20-13 20-14 20-15 20-16 20-17'/>
+            </w>
+            <w n='20-8'>
+                <text>תַּ֥חַת</text>
+                <refs nrefs='20-18'/>
+            </w>
+            <w n='20-9'>
+                <text>הַשָּֽׁמֶשׁ</text>
+                <refs nrefs='20-19 20-20'/>
+            </w>
+            <w n='20-10'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='20-1'>
+                <text/>
+            </w>
+            <w n='20-2'>
+                <text>Therefore</text>
+                <refs nrefs='20-1'/>
+            </w>
+            <w n='20-3'>
+                <text>I</text>
+                <refs nrefs='20-2'/>
+            </w>
+            <w n='20-4'>
+                <text>turned</text>
+                <refs nrefs='20-1'/>
+            </w>
+            <w n='20-5'>
+                <text>my</text>
+                <refs nrefs='20-4'/>
+            </w>
+            <w n='20-6'>
+                <text>heart</text>
+                <refs nrefs='20-4'/>
+            </w>
+            <w n='20-7'>
+                <text>and</text>
+            </w>
+            <w n='20-8'>
+                <text>despaired</text>
+                <refs nrefs='20-3'/>
+            </w>
+            <w n='20-9'>
+                <text>of</text>
+                <refs nrefs='20-5'/>
+            </w>
+            <w n='20-10'>
+                <text>all</text>
+                <refs nrefs='20-6'/>
+            </w>
+            <w n='20-11'>
+                <text>the</text>
+                <refs nrefs='20-6'/>
+            </w>
+            <w n='20-12'>
+                <text>labor</text>
+                <refs nrefs='20-6'/>
+            </w>
+            <w n='20-13'>
+                <text>in</text>
+                <refs nrefs='20-7'/>
+            </w>
+            <w n='20-14'>
+                <text>which</text>
+                <refs nrefs='20-7'/>
+            </w>
+            <w n='20-15'>
+                <text>I</text>
+                <refs nrefs='20-7'/>
+            </w>
+            <w n='20-16'>
+                <text>had</text>
+                <refs nrefs='20-7'/>
+            </w>
+            <w n='20-17'>
+                <text>toiled</text>
+                <refs nrefs='20-7'/>
+            </w>
+            <w n='20-18'>
+                <text>under</text>
+                <refs nrefs='20-8'/>
+            </w>
+            <w n='20-19'>
+                <text>the</text>
+                <refs nrefs='20-9'/>
+            </w>
+            <w n='20-20'>
+                <text>sun</text>
+                <refs nrefs='20-9'/>
+            </w>
+            <w n='20-21'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='21-1'>
+                <text>כִּי־יֵ֣שׁ</text>
+                <refs nrefs='21-1 21-2 21-3'/>
+            </w>
+            <w n='21-2'>
+                <text>אָדָ֗ם</text>
+                <refs nrefs='21-4 21-5'/>
+            </w>
+            <w n='21-3'>
+                <text>שֶׁעֲמָלֹ֛ו</text>
+                <refs nrefs='21-6 21-7'/>
+            </w>
+            <w n='21-4'>
+                <text>בְּחָכְמָ֥ה</text>
+                <refs nrefs='21-9 21-10'/>
+            </w>
+            <w n='21-5'>
+                <text>וּבְדַ֖עַת</text>
+                <refs nrefs='21-12'/>
+            </w>
+            <w n='21-6'>
+                <text>וּבְכִשְׁרֹ֑ון</text>
+                <refs nrefs='21-14 21-15'/>
+            </w>
+            <w n='21-7'>
+                <text>וּלְאָדָ֞ם</text>
+                <refs nrefs='21-17 21-23 21-24 21-25'/>
+            </w>
+            <w n='21-8'>
+                <text>שֶׁלֹּ֤א</text>
+                <refs nrefs='21-26 21-27 21-28'/>
+            </w>
+            <w n='21-9'>
+                <text>עָֽמַל־בֹּו֙</text>
+                <refs nrefs='21-29 21-30 21-31'/>
+            </w>
+            <w n='21-10'>
+                <text>יִתְּנֶ֣נּוּ</text>
+                <refs nrefs='21-18 21-19 21-20'/>
+            </w>
+            <w n='21-11'>
+                <text>חֶלְקֹ֔ו</text>
+                <refs nrefs='21-21 21-22'/>
+            </w>
+            <w n='21-12'>
+                <text>גַּם־זֶ֥ה</text>
+                <refs nrefs='21-33 21-34'/>
+            </w>
+            <w n='21-13'>
+                <text>הֶ֖בֶל</text>
+                <refs nrefs='21-36'/>
+            </w>
+            <w n='21-14'>
+                <text>וְרָעָ֥ה</text>
+                <refs nrefs='21-38 21-40'/>
+            </w>
+            <w n='21-15'>
+                <text>רַבָּֽה</text>
+                <refs nrefs='21-39'/>
+            </w>
+            <w n='21-16'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='21-1'>
+                <text>For</text>
+                <refs nrefs='21-1'/>
+            </w>
+            <w n='21-2'>
+                <text>there</text>
+                <refs nrefs='21-1'/>
+            </w>
+            <w n='21-3'>
+                <text>is</text>
+                <refs nrefs='21-1'/>
+            </w>
+            <w n='21-4'>
+                <text>a</text>
+                <refs nrefs='21-2'/>
+            </w>
+            <w n='21-5'>
+                <text>man</text>
+                <refs nrefs='21-2'/>
+            </w>
+            <w n='21-6'>
+                <text>whose</text>
+                <refs nrefs='21-3'/>
+            </w>
+            <w n='21-7'>
+                <text>labor</text>
+                <refs nrefs='21-3'/>
+            </w>
+            <w n='21-8'>
+                <text>is</text>
+            </w>
+            <w n='21-9'>
+                <text>with</text>
+                <refs nrefs='21-4'/>
+            </w>
+            <w n='21-10'>
+                <text>wisdom</text>
+                <refs nrefs='21-4'/>
+            </w>
+            <w n='21-11'>
+                <text>,</text>
+            </w>
+            <w n='21-12'>
+                <text>knowledge</text>
+                <refs nrefs='21-5'/>
+            </w>
+            <w n='21-13'>
+                <text>,</text>
+            </w>
+            <w n='21-14'>
+                <text>and</text>
+                <refs nrefs='21-6'/>
+            </w>
+            <w n='21-15'>
+                <text>skill</text>
+                <refs nrefs='21-6'/>
+            </w>
+            <w n='21-16'>
+                <text>;</text>
+            </w>
+            <w n='21-17'>
+                <text>yet</text>
+                <refs nrefs='21-7'/>
+            </w>
+            <w n='21-18'>
+                <text>he</text>
+                <refs nrefs='21-10'/>
+            </w>
+            <w n='21-19'>
+                <text>must</text>
+                <refs nrefs='21-10'/>
+            </w>
+            <w n='21-20'>
+                <text>leave</text>
+                <refs nrefs='21-10'/>
+            </w>
+            <w n='21-21'>
+                <text>his</text>
+                <refs nrefs='21-11'/>
+            </w>
+            <w n='21-22'>
+                <text>heritage</text>
+                <refs nrefs='21-11'/>
+            </w>
+            <w n='21-23'>
+                <text>to</text>
+                <refs nrefs='21-7'/>
+            </w>
+            <w n='21-24'>
+                <text>a</text>
+                <refs nrefs='21-7'/>
+            </w>
+            <w n='21-25'>
+                <text>man</text>
+                <refs nrefs='21-7'/>
+            </w>
+            <w n='21-26'>
+                <text>who</text>
+                <refs nrefs='21-8'/>
+            </w>
+            <w n='21-27'>
+                <text>has</text>
+                <refs nrefs='21-8'/>
+            </w>
+            <w n='21-28'>
+                <text>not</text>
+                <refs nrefs='21-8'/>
+            </w>
+            <w n='21-29'>
+                <text>labored</text>
+                <refs nrefs='21-9'/>
+            </w>
+            <w n='21-30'>
+                <text>for</text>
+                <refs nrefs='21-9'/>
+            </w>
+            <w n='21-31'>
+                <text>it</text>
+                <refs nrefs='21-9'/>
+            </w>
+            <w n='21-32'>
+                <text>.</text>
+            </w>
+            <w n='21-33'>
+                <text>This</text>
+                <refs nrefs='21-12'/>
+            </w>
+            <w n='21-34'>
+                <text>also</text>
+                <refs nrefs='21-12'/>
+            </w>
+            <w n='21-35'>
+                <text>is</text>
+            </w>
+            <w n='21-36'>
+                <text>vanity</text>
+                <refs nrefs='21-13'/>
+            </w>
+            <w n='21-37'>
+                <text>and</text>
+            </w>
+            <w n='21-38'>
+                <text>a</text>
+                <refs nrefs='21-14'/>
+            </w>
+            <w n='21-39'>
+                <text>great</text>
+                <refs nrefs='21-15'/>
+            </w>
+            <w n='21-40'>
+                <text>evil</text>
+                <refs nrefs='21-14'/>
+            </w>
+            <w n='21-41'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='22-1'>
+                <text>כִּ֠י</text>
+                <refs nrefs='22-1'/>
+            </w>
+            <w n='22-2'>
+                <text>מֶֽה־הֹוֶ֤ה</text>
+                <refs nrefs='22-2 22-3'/>
+            </w>
+            <w n='22-3'>
+                <text>לָֽאָדָם֙</text>
+                <refs nrefs='22-4'/>
+            </w>
+            <w n='22-4'>
+                <text>בְּכָל־עֲמָלֹ֔ו</text>
+                <refs nrefs='22-5 22-6 22-7 22-8'/>
+            </w>
+            <w n='22-5'>
+                <text>וּבְרַעְיֹ֖ון</text>
+                <refs nrefs='22-10 22-11 22-12 22-13'/>
+            </w>
+            <w n='22-6'>
+                <text>לִבֹּ֑ו</text>
+                <refs nrefs='22-14 22-15 22-16'/>
+            </w>
+            <w n='22-7'>
+                <text>שֶׁה֥וּא</text>
+                <refs nrefs='22-17 22-18'/>
+            </w>
+            <w n='22-8'>
+                <text>עָמֵ֖ל</text>
+                <refs nrefs='22-19 22-20 22-21'/>
+            </w>
+            <w n='22-9'>
+                <text>תַּ֥חַת</text>
+                <refs nrefs='22-22'/>
+            </w>
+            <w n='22-10'>
+                <text>הַשָּֽׁמֶשׁ</text>
+                <refs nrefs='22-23 22-24'/>
+            </w>
+            <w n='22-11'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='22-1'>
+                <text>For</text>
+                <refs nrefs='22-1'/>
+            </w>
+            <w n='22-2'>
+                <text>what</text>
+                <refs nrefs='22-2'/>
+            </w>
+            <w n='22-3'>
+                <text>has</text>
+                <refs nrefs='22-2'/>
+            </w>
+            <w n='22-4'>
+                <text>man</text>
+                <refs nrefs='22-3'/>
+            </w>
+            <w n='22-5'>
+                <text>for</text>
+                <refs nrefs='22-4'/>
+            </w>
+            <w n='22-6'>
+                <text>all</text>
+                <refs nrefs='22-4'/>
+            </w>
+            <w n='22-7'>
+                <text>his</text>
+                <refs nrefs='22-4'/>
+            </w>
+            <w n='22-8'>
+                <text>labor</text>
+                <refs nrefs='22-4'/>
+            </w>
+            <w n='22-9'>
+                <text>,</text>
+            </w>
+            <w n='22-10'>
+                <text>and</text>
+                <refs nrefs='22-5'/>
+            </w>
+            <w n='22-11'>
+                <text>for</text>
+                <refs nrefs='22-5'/>
+            </w>
+            <w n='22-12'>
+                <text>the</text>
+                <refs nrefs='22-5'/>
+            </w>
+            <w n='22-13'>
+                <text>striving</text>
+                <refs nrefs='22-5'/>
+            </w>
+            <w n='22-14'>
+                <text>of</text>
+                <refs nrefs='22-6'/>
+            </w>
+            <w n='22-15'>
+                <text>his</text>
+                <refs nrefs='22-6'/>
+            </w>
+            <w n='22-16'>
+                <text>heart</text>
+                <refs nrefs='22-6'/>
+            </w>
+            <w n='22-17'>
+                <text>with</text>
+                <refs nrefs='22-7'/>
+            </w>
+            <w n='22-18'>
+                <text>which</text>
+                <refs nrefs='22-7'/>
+            </w>
+            <w n='22-19'>
+                <text>he</text>
+                <refs nrefs='22-8'/>
+            </w>
+            <w n='22-20'>
+                <text>has</text>
+                <refs nrefs='22-8'/>
+            </w>
+            <w n='22-21'>
+                <text>toiled</text>
+                <refs nrefs='22-8'/>
+            </w>
+            <w n='22-22'>
+                <text>under</text>
+                <refs nrefs='22-9'/>
+            </w>
+            <w n='22-23'>
+                <text>the</text>
+                <refs nrefs='22-10'/>
+            </w>
+            <w n='22-24'>
+                <text>sun</text>
+                <refs nrefs='22-10'/>
+            </w>
+            <w n='22-25'>
+                <text>?</text>
+            </w>
+            <w n='22-26'>
+                <text/>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='23-1'>
+                <text>כִּ֧י</text>
+                <refs nrefs='23-1'/>
+            </w>
+            <w n='23-2'>
+                <text>כָל־יָמָ֣יו</text>
+                <refs nrefs='23-2 23-3 23-4'/>
+            </w>
+            <w n='23-3'>
+                <text>מַכְאֹבִ֗ים</text>
+                <refs nrefs='23-6'/>
+            </w>
+            <w n='23-4'>
+                <text>וָכַ֙עַס֙</text>
+                <refs nrefs='23-8 23-11'/>
+            </w>
+            <w n='23-5'>
+                <text>עִנְיָנֹ֔ו</text>
+                <refs nrefs='23-9 23-10'/>
+            </w>
+            <w n='23-6'>
+                <text>גַּם־בַּלַּ֖יְלָה</text>
+                <refs nrefs='23-13 23-14 23-15 23-16'/>
+            </w>
+            <w n='23-7'>
+                <text>לֹא־שָׁכַ֣ב</text>
+                <refs nrefs='23-19 23-20 23-21'/>
+            </w>
+            <w n='23-8'>
+                <text>לִבֹּ֑ו</text>
+                <refs nrefs='23-17 23-18'/>
+            </w>
+            <w n='23-9'>
+                <text>גַּם־זֶ֖ה</text>
+                <refs nrefs='23-23 23-24'/>
+            </w>
+            <w n='23-10'>
+                <text>הֶ֥בֶל</text>
+                <refs nrefs='23-26'/>
+            </w>
+            <w n='23-11'>
+                <text>הֽוּא</text>
+                <refs nrefs='23-23 23-24'/>
+            </w>
+            <w n='23-12'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='23-1'>
+                <text>For</text>
+                <refs nrefs='23-1'/>
+            </w>
+            <w n='23-2'>
+                <text>all</text>
+                <refs nrefs='23-2'/>
+            </w>
+            <w n='23-3'>
+                <text>his</text>
+                <refs nrefs='23-2'/>
+            </w>
+            <w n='23-4'>
+                <text>days</text>
+                <refs nrefs='23-2'/>
+            </w>
+            <w n='23-5'>
+                <text>are</text>
+            </w>
+            <w n='23-6'>
+                <text>sorrowful</text>
+                <refs nrefs='23-3'/>
+            </w>
+            <w n='23-7'>
+                <text>,</text>
+            </w>
+            <w n='23-8'>
+                <text>and</text>
+                <refs nrefs='23-4'/>
+            </w>
+            <w n='23-9'>
+                <text>his</text>
+                <refs nrefs='23-5'/>
+            </w>
+            <w n='23-10'>
+                <text>work</text>
+                <refs nrefs='23-5'/>
+            </w>
+            <w n='23-11'>
+                <text>burdensome</text>
+                <refs nrefs='23-4'/>
+            </w>
+            <w n='23-12'>
+                <text>;</text>
+            </w>
+            <w n='23-13'>
+                <text>even</text>
+                <refs nrefs='23-6'/>
+            </w>
+            <w n='23-14'>
+                <text>in</text>
+                <refs nrefs='23-6'/>
+            </w>
+            <w n='23-15'>
+                <text>the</text>
+                <refs nrefs='23-6'/>
+            </w>
+            <w n='23-16'>
+                <text>night</text>
+                <refs nrefs='23-6'/>
+            </w>
+            <w n='23-17'>
+                <text>his</text>
+                <refs nrefs='23-8'/>
+            </w>
+            <w n='23-18'>
+                <text>heart</text>
+                <refs nrefs='23-8'/>
+            </w>
+            <w n='23-19'>
+                <text>takes</text>
+                <refs nrefs='23-7'/>
+            </w>
+            <w n='23-20'>
+                <text>no</text>
+                <refs nrefs='23-7'/>
+            </w>
+            <w n='23-21'>
+                <text>rest</text>
+                <refs nrefs='23-7'/>
+            </w>
+            <w n='23-22'>
+                <text>.</text>
+            </w>
+            <w n='23-23'>
+                <text>This</text>
+                <refs nrefs='23-9 23-11'/>
+            </w>
+            <w n='23-24'>
+                <text>also</text>
+                <refs nrefs='23-9 23-11'/>
+            </w>
+            <w n='23-25'>
+                <text>is</text>
+            </w>
+            <w n='23-26'>
+                <text>vanity</text>
+                <refs nrefs='23-10'/>
+            </w>
+            <w n='23-27'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='24-1'>
+                <text>אֵֽין־טֹ֤וב</text>
+                <refs nrefs='24-1 24-2 24-3'/>
+            </w>
+            <w n='24-2'>
+                <text>בָּאָדָם֙</text>
+                <refs nrefs='24-4 24-5 24-6'/>
+            </w>
+            <w n='24-3'>
+                <text>שֶׁיֹּאכַ֣ל</text>
+                <refs nrefs='24-7 24-8 24-9 24-10 24-11'/>
+            </w>
+            <w n='24-4'>
+                <text>וְשָׁתָ֔ה</text>
+                <refs nrefs='24-12 24-13'/>
+            </w>
+            <w n='24-5'>
+                <text>וְהֶרְאָ֧ה</text>
+                <refs nrefs='24-15 24-16'/>
+            </w>
+            <w n='24-6'>
+                <text>אֶת־נַפְשֹׁ֛ו</text>
+                <refs nrefs='24-17 24-18 24-19'/>
+            </w>
+            <w n='24-7'>
+                <text>טֹ֖וב</text>
+                <refs nrefs='24-20 24-21'/>
+            </w>
+            <w n='24-8'>
+                <text>בַּעֲמָלֹ֑ו</text>
+                <refs nrefs='24-22 24-23 24-24'/>
+            </w>
+            <w n='24-9'>
+                <text>גַּם־זֹה֙</text>
+                <refs nrefs='24-26 24-27'/>
+            </w>
+            <w n='24-10'>
+                <text>רָאִ֣יתִי</text>
+                <refs nrefs='24-30'/>
+            </w>
+            <w n='24-11'>
+                <text>אָ֔נִי</text>
+                <refs nrefs='24-29'/>
+            </w>
+            <w n='24-12'>
+                <text>כִּ֛י</text>
+                <refs nrefs='24-32'/>
+            </w>
+            <w n='24-13'>
+                <text>מִיַּ֥ד</text>
+                <refs nrefs='24-33 24-34 24-35'/>
+            </w>
+            <w n='24-14'>
+                <text>הָאֱלֹהִ֖ים</text>
+                <refs nrefs='24-36 24-37'/>
+            </w>
+            <w n='24-15'>
+                <text>הִֽיא</text>
+                <refs nrefs='24-36 24-37'/>
+            </w>
+            <w n='24-16'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='24-1'>
+                <text>Nothing</text>
+                <refs nrefs='24-1'/>
+            </w>
+            <w n='24-2'>
+                <text>is</text>
+                <refs nrefs='24-1'/>
+            </w>
+            <w n='24-3'>
+                <text>better</text>
+                <refs nrefs='24-1'/>
+            </w>
+            <w n='24-4'>
+                <text>for</text>
+                <refs nrefs='24-2'/>
+            </w>
+            <w n='24-5'>
+                <text>a</text>
+                <refs nrefs='24-2'/>
+            </w>
+            <w n='24-6'>
+                <text>man</text>
+                <refs nrefs='24-2'/>
+            </w>
+            <w n='24-7'>
+                <text>than</text>
+                <refs nrefs='24-3'/>
+            </w>
+            <w n='24-8'>
+                <text>that</text>
+                <refs nrefs='24-3'/>
+            </w>
+            <w n='24-9'>
+                <text>he</text>
+                <refs nrefs='24-3'/>
+            </w>
+            <w n='24-10'>
+                <text>should</text>
+                <refs nrefs='24-3'/>
+            </w>
+            <w n='24-11'>
+                <text>eat</text>
+                <refs nrefs='24-3'/>
+            </w>
+            <w n='24-12'>
+                <text>and</text>
+                <refs nrefs='24-4'/>
+            </w>
+            <w n='24-13'>
+                <text>drink</text>
+                <refs nrefs='24-4'/>
+            </w>
+            <w n='24-14'>
+                <text>,</text>
+            </w>
+            <w n='24-15'>
+                <text>and</text>
+                <refs nrefs='24-5'/>
+            </w>
+            <w n='24-16'>
+                <text>that</text>
+                <refs nrefs='24-5'/>
+            </w>
+            <w n='24-17'>
+                <text>his</text>
+                <refs nrefs='24-6'/>
+            </w>
+            <w n='24-18'>
+                <text>soul</text>
+                <refs nrefs='24-6'/>
+            </w>
+            <w n='24-19'>
+                <text>should</text>
+                <refs nrefs='24-6'/>
+            </w>
+            <w n='24-20'>
+                <text>enjoy</text>
+                <refs nrefs='24-7'/>
+            </w>
+            <w n='24-21'>
+                <text>good</text>
+                <refs nrefs='24-7'/>
+            </w>
+            <w n='24-22'>
+                <text>in</text>
+                <refs nrefs='24-8'/>
+            </w>
+            <w n='24-23'>
+                <text>his</text>
+                <refs nrefs='24-8'/>
+            </w>
+            <w n='24-24'>
+                <text>labor</text>
+                <refs nrefs='24-8'/>
+            </w>
+            <w n='24-25'>
+                <text>.</text>
+            </w>
+            <w n='24-26'>
+                <text>This</text>
+                <refs nrefs='24-9'/>
+            </w>
+            <w n='24-27'>
+                <text>also</text>
+                <refs nrefs='24-9'/>
+            </w>
+            <w n='24-28'>
+                <text>,</text>
+            </w>
+            <w n='24-29'>
+                <text>I</text>
+                <refs nrefs='24-11'/>
+            </w>
+            <w n='24-30'>
+                <text>saw</text>
+                <refs nrefs='24-10'/>
+            </w>
+            <w n='24-31'>
+                <text>,</text>
+            </w>
+            <w n='24-32'>
+                <text>was</text>
+                <refs nrefs='24-12'/>
+            </w>
+            <w n='24-33'>
+                <text>from</text>
+                <refs nrefs='24-13'/>
+            </w>
+            <w n='24-34'>
+                <text>the</text>
+                <refs nrefs='24-13'/>
+            </w>
+            <w n='24-35'>
+                <text>hand</text>
+                <refs nrefs='24-13'/>
+            </w>
+            <w n='24-36'>
+                <text>of</text>
+                <refs nrefs='24-14 24-15'/>
+            </w>
+            <w n='24-37'>
+                <text>God</text>
+                <refs nrefs='24-14 24-15'/>
+            </w>
+            <w n='24-38'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='25-1'>
+                <text>כִּ֣י</text>
+                <refs nrefs='25-1'/>
+            </w>
+            <w n='25-2'>
+                <text>מִ֥י</text>
+                <refs nrefs='25-2'/>
+            </w>
+            <w n='25-3'>
+                <text>יֹאכַ֛ל</text>
+                <refs nrefs='25-3 25-4'/>
+            </w>
+            <w n='25-4'>
+                <text>וּמִ֥י</text>
+                <refs nrefs='25-6 25-7'/>
+            </w>
+            <w n='25-5'>
+                <text>יָח֖וּשׁ</text>
+                <refs nrefs='25-8 25-9 25-10'/>
+            </w>
+            <w n='25-6'>
+                <text>ח֥וּץ</text>
+                <refs nrefs='25-12'/>
+            </w>
+            <w n='25-7'>
+                <text>מִמֶּֽנִּי</text>
+                <refs nrefs='25-13 25-14'/>
+            </w>
+            <w n='25-8'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='25-1'>
+                <text>For</text>
+                <refs nrefs='25-1'/>
+            </w>
+            <w n='25-2'>
+                <text>who</text>
+                <refs nrefs='25-2'/>
+            </w>
+            <w n='25-3'>
+                <text>can</text>
+                <refs nrefs='25-3'/>
+            </w>
+            <w n='25-4'>
+                <text>eat</text>
+                <refs nrefs='25-3'/>
+            </w>
+            <w n='25-5'>
+                <text>,</text>
+            </w>
+            <w n='25-6'>
+                <text>or</text>
+                <refs nrefs='25-4'/>
+            </w>
+            <w n='25-7'>
+                <text>who</text>
+                <refs nrefs='25-4'/>
+            </w>
+            <w n='25-8'>
+                <text>can</text>
+                <refs nrefs='25-5'/>
+            </w>
+            <w n='25-9'>
+                <text>have</text>
+                <refs nrefs='25-5'/>
+            </w>
+            <w n='25-10'>
+                <text>enjoyment</text>
+                <refs nrefs='25-5'/>
+            </w>
+            <w n='25-11'>
+                <text>,</text>
+            </w>
+            <w n='25-12'>
+                <text>more</text>
+                <refs nrefs='25-6'/>
+            </w>
+            <w n='25-13'>
+                <text>than</text>
+                <refs nrefs='25-7'/>
+            </w>
+            <w n='25-14'>
+                <text>I</text>
+                <refs nrefs='25-7'/>
+            </w>
+            <w n='25-15'>
+                <text>?</text>
+            </w>
+        </wds>
+    </sentence><sentence n='1'>
+        <wds lnum='L1'>
+            <w n='26-1'>
+                <text>כִּ֤י</text>
+                <refs nrefs='26-1'/>
+            </w>
+            <w n='26-2'>
+                <text>לְאָדָם֙</text>
+                <refs nrefs='26-9 26-10 26-11'/>
+            </w>
+            <w n='26-3'>
+                <text>שֶׁטֹּ֣וב</text>
+                <refs nrefs='26-12 26-13 26-14'/>
+            </w>
+            <w n='26-4'>
+                <text>לְפָנָ֔יו</text>
+                <refs nrefs='26-15 26-16 26-17'/>
+            </w>
+            <w n='26-5'>
+                <text>נָתַ֛ן</text>
+                <refs nrefs='26-3'/>
+            </w>
+            <w n='26-6'>
+                <text>חָכְמָ֥ה</text>
+                <refs nrefs='26-4'/>
+            </w>
+            <w n='26-7'>
+                <text>וְדַ֖עַת</text>
+                <refs nrefs='26-5 26-6'/>
+            </w>
+            <w n='26-8'>
+                <text>וְשִׂמְחָ֑ה</text>
+                <refs nrefs='26-7 26-8'/>
+            </w>
+            <w n='26-9'>
+                <text>וְלַחֹוטֶא֩</text>
+                <refs nrefs='26-19 26-20 26-21 26-22'/>
+            </w>
+            <w n='26-10'>
+                <text>נָתַ֨ן</text>
+                <refs nrefs='26-24'/>
+            </w>
+            <w n='26-11'>
+                <text>עִנְיָ֜ן</text>
+                <refs nrefs='26-25 26-26'/>
+            </w>
+            <w n='26-12'>
+                <text>לֶאֱסֹ֣וף</text>
+                <refs nrefs='26-27 26-28'/>
+            </w>
+            <w n='26-13'>
+                <text>וְלִכְנֹ֗וס</text>
+                <refs nrefs='26-29 26-30'/>
+            </w>
+            <w n='26-14'>
+                <text>לָתֵת֙</text>
+                <refs nrefs='26-32 26-33 26-34 26-35'/>
+            </w>
+            <w n='26-15'>
+                <text>לְטֹוב֙</text>
+                <refs nrefs='26-36 26-37 26-38 26-39 26-40'/>
+            </w>
+            <w n='26-16'>
+                <text>לִפְנֵ֣י</text>
+                <refs nrefs='26-41'/>
+            </w>
+            <w n='26-17'>
+                <text>הָֽאֱלֹהִ֔ים</text>
+                <refs nrefs='26-42'/>
+            </w>
+            <w n='26-18'>
+                <text>גַּם־זֶ֥ה</text>
+                <refs nrefs='26-44 26-45'/>
+            </w>
+            <w n='26-19'>
+                <text>הֶ֖בֶל</text>
+                <refs nrefs='26-47'/>
+            </w>
+            <w n='26-20'>
+                <text>וּרְע֥וּת</text>
+                <refs nrefs='26-48 26-49 26-50'/>
+            </w>
+            <w n='26-21'>
+                <text>רֽוּחַ</text>
+                <refs nrefs='26-51 26-52'/>
+            </w>
+            <w n='26-22'>
+                <text>׃</text>
+            </w>
+        </wds>
+        <wds lnum='L2'>
+            <w n='26-1'>
+                <text>For</text>
+                <refs nrefs='26-1'/>
+            </w>
+            <w n='26-2'>
+                <text>God</text>
+            </w>
+            <w n='26-3'>
+                <text>gives</text>
+                <refs nrefs='26-5'/>
+            </w>
+            <w n='26-4'>
+                <text>wisdom</text>
+                <refs nrefs='26-6'/>
+            </w>
+            <w n='26-5'>
+                <text>and</text>
+                <refs nrefs='26-7'/>
+            </w>
+            <w n='26-6'>
+                <text>knowledge</text>
+                <refs nrefs='26-7'/>
+            </w>
+            <w n='26-7'>
+                <text>and</text>
+                <refs nrefs='26-8'/>
+            </w>
+            <w n='26-8'>
+                <text>joy</text>
+                <refs nrefs='26-8'/>
+            </w>
+            <w n='26-9'>
+                <text>to</text>
+                <refs nrefs='26-2'/>
+            </w>
+            <w n='26-10'>
+                <text>a</text>
+                <refs nrefs='26-2'/>
+            </w>
+            <w n='26-11'>
+                <text>man</text>
+                <refs nrefs='26-2'/>
+            </w>
+            <w n='26-12'>
+                <text>who</text>
+                <refs nrefs='26-3'/>
+            </w>
+            <w n='26-13'>
+                <text>is</text>
+                <refs nrefs='26-3'/>
+            </w>
+            <w n='26-14'>
+                <text>good</text>
+                <refs nrefs='26-3'/>
+            </w>
+            <w n='26-15'>
+                <text>in</text>
+                <refs nrefs='26-4'/>
+            </w>
+            <w n='26-16'>
+                <text>His</text>
+                <refs nrefs='26-4'/>
+            </w>
+            <w n='26-17'>
+                <text>sight</text>
+                <refs nrefs='26-4'/>
+            </w>
+            <w n='26-18'>
+                <text>;</text>
+            </w>
+            <w n='26-19'>
+                <text>but</text>
+                <refs nrefs='26-9'/>
+            </w>
+            <w n='26-20'>
+                <text>to</text>
+                <refs nrefs='26-9'/>
+            </w>
+            <w n='26-21'>
+                <text>the</text>
+                <refs nrefs='26-9'/>
+            </w>
+            <w n='26-22'>
+                <text>sinner</text>
+                <refs nrefs='26-9'/>
+            </w>
+            <w n='26-23'>
+                <text>He</text>
+            </w>
+            <w n='26-24'>
+                <text>gives</text>
+                <refs nrefs='26-10'/>
+            </w>
+            <w n='26-25'>
+                <text>the</text>
+                <refs nrefs='26-11'/>
+            </w>
+            <w n='26-26'>
+                <text>work</text>
+                <refs nrefs='26-11'/>
+            </w>
+            <w n='26-27'>
+                <text>of</text>
+                <refs nrefs='26-12'/>
+            </w>
+            <w n='26-28'>
+                <text>gathering</text>
+                <refs nrefs='26-12'/>
+            </w>
+            <w n='26-29'>
+                <text>and</text>
+                <refs nrefs='26-13'/>
+            </w>
+            <w n='26-30'>
+                <text>collecting</text>
+                <refs nrefs='26-13'/>
+            </w>
+            <w n='26-31'>
+                <text>,</text>
+            </w>
+            <w n='26-32'>
+                <text>that</text>
+                <refs nrefs='26-14'/>
+            </w>
+            <w n='26-33'>
+                <text>he</text>
+                <refs nrefs='26-14'/>
+            </w>
+            <w n='26-34'>
+                <text>may</text>
+                <refs nrefs='26-14'/>
+            </w>
+            <w n='26-35'>
+                <text>give</text>
+                <refs nrefs='26-14'/>
+            </w>
+            <w n='26-36'>
+                <text>to</text>
+                <refs nrefs='26-15'/>
+            </w>
+            <w n='26-37'>
+                <text>him</text>
+                <refs nrefs='26-15'/>
+            </w>
+            <w n='26-38'>
+                <text>who</text>
+                <refs nrefs='26-15'/>
+            </w>
+            <w n='26-39'>
+                <text>is</text>
+                <refs nrefs='26-15'/>
+            </w>
+            <w n='26-40'>
+                <text>good</text>
+                <refs nrefs='26-15'/>
+            </w>
+            <w n='26-41'>
+                <text>before</text>
+                <refs nrefs='26-16'/>
+            </w>
+            <w n='26-42'>
+                <text>God</text>
+                <refs nrefs='26-17'/>
+            </w>
+            <w n='26-43'>
+                <text>.</text>
+            </w>
+            <w n='26-44'>
+                <text>This</text>
+                <refs nrefs='26-18'/>
+            </w>
+            <w n='26-45'>
+                <text>also</text>
+                <refs nrefs='26-18'/>
+            </w>
+            <w n='26-46'>
+                <text>is</text>
+            </w>
+            <w n='26-47'>
+                <text>vanity</text>
+                <refs nrefs='26-19'/>
+            </w>
+            <w n='26-48'>
+                <text>and</text>
+                <refs nrefs='26-20'/>
+            </w>
+            <w n='26-49'>
+                <text>grasping</text>
+                <refs nrefs='26-20'/>
+            </w>
+            <w n='26-50'>
+                <text>for</text>
+                <refs nrefs='26-20'/>
+            </w>
+            <w n='26-51'>
+                <text>the</text>
+                <refs nrefs='26-21'/>
+            </w>
+            <w n='26-52'>
+                <text>wind</text>
+                <refs nrefs='26-21'/>
+            </w>
+            <w n='26-53'>
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence></aligned-text>
